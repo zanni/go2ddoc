@@ -1,0 +1,3589 @@
+{
+    "abreviation": {
+        "autres": [
+            {
+                "abv": "ADJ",
+                "text": "Adjudant"
+            },
+            {
+                "abv": "AERD",
+                "text": "Aérodrome"
+            },
+            {
+                "abv": "AERG",
+                "text": "Aérogare"
+            },
+            {
+                "abv": "AERN",
+                "text": "Aéronautique"
+            },
+            {
+                "abv": "AERP",
+                "text": "Aéroport"
+            },
+            {
+                "abv": "AGCE",
+                "text": "Agence"
+            },
+            {
+                "abv": "AGRIC",
+                "text": "Agricole"
+            },
+            {
+                "abv": "ANC",
+                "text": "Ancien(nement)"
+            },
+            {
+                "abv": "APP",
+                "text": "Appartement(s)"
+            },
+            {
+                "abv": "ARMT",
+                "text": "Armement"
+            },
+            {
+                "abv": "ARR",
+                "text": "Arrondissement"
+            },
+            {
+                "abv": "ASP",
+                "text": "Aspirant"
+            },
+            {
+                "abv": "ASSOC",
+                "text": "Association"
+            },
+            {
+                "abv": "ASSUR",
+                "text": "Assurance"
+            },
+            {
+                "abv": "AT",
+                "text": "Atelier"
+            },
+            {
+                "abv": "BRQ",
+                "text": "Baraquement"
+            },
+            {
+                "abv": "BAS",
+                "text": "Bas(se, ses)"
+            },
+            {
+                "abv": "BTN",
+                "text": "Bataillon(s)"
+            },
+            {
+                "abv": "BAT",
+                "text": "Bâtiment(s)"
+            },
+            {
+                "abv": "BP",
+                "text": "Boîte Postale"
+            },
+            {
+                "abv": "CAB",
+                "text": "Cabinet"
+            },
+            {
+                "abv": "CANT",
+                "text": "Canton"
+            },
+            {
+                "abv": "CDL",
+                "text": "Cardinal"
+            },
+            {
+                "abv": "CP",
+                "text": "Case Postale"
+            },
+            {
+                "abv": "CHBR",
+                "text": "Chambre"
+            },
+            {
+                "abv": "CTD",
+                "text": "Citadelle"
+            },
+            {
+                "abv": "COLL",
+                "text": "Collège"
+            },
+            {
+                "abv": "CNL",
+                "text": "Colonel"
+            },
+            {
+                "abv": "COLO",
+                "text": "Colonie"
+            },
+            {
+                "abv": "CTE",
+                "text": "Comité"
+            },
+            {
+                "abv": "CDT",
+                "text": "Commandant"
+            },
+            {
+                "abv": "CIAL",
+                "text": "Commercial"
+            },
+            {
+                "abv": "COMM",
+                "text": "Commune(al, aux)"
+            },
+            {
+                "abv": "CIE",
+                "text": "Compagnie"
+            },
+            {
+                "abv": "COMP",
+                "text": "Compagnon(s)"
+            },
+            {
+                "abv": "COOP",
+                "text": "Coopérative"
+            },
+            {
+                "abv": "CS",
+                "text": "Course Spéciale"
+            },
+            {
+                "abv": "CRX",
+                "text": "Croix"
+            },
+            {
+                "abv": "DELEG",
+                "text": "Délégation"
+            },
+            {
+                "abv": "DEP",
+                "text": "Départemental(aux)"
+            },
+            {
+                "abv": "DIR",
+                "text": "Directeur(ction)"
+            },
+            {
+                "abv": "DIV",
+                "text": "Division"
+            },
+            {
+                "abv": "DR",
+                "text": "Docteur"
+            },
+            {
+                "abv": "ECO",
+                "text": "Economie(ique)"
+            },
+            {
+                "abv": "ECRIV",
+                "text": "Ecrivain(s)"
+            },
+            {
+                "abv": "ENST",
+                "text": "Enseignement"
+            },
+            {
+                "abv": "ENS",
+                "text": "Ensemble"
+            },
+            {
+                "abv": "ENT",
+                "text": "Entrée(s)"
+            },
+            {
+                "abv": "ENTR",
+                "text": "Entreprise"
+            },
+            {
+                "abv": "EP",
+                "text": "Epoux(se)"
+            },
+            {
+                "abv": "ETS",
+                "text": "Etablissement"
+            },
+            {
+                "abv": "ETG",
+                "text": "Etage"
+            },
+            {
+                "abv": "EM",
+                "text": "Etat Major"
+            },
+            {
+                "abv": "EVQ",
+                "text": "Evêque"
+            },
+            {
+                "abv": "FAC",
+                "text": "Faculté"
+            },
+            {
+                "abv": "FOR",
+                "text": "Forêt (Forestier)"
+            },
+            {
+                "abv": "FR",
+                "text": "Français (e) "
+            },
+            {
+                "abv": "FUS",
+                "text": "Fusilier"
+            },
+            {
+                "abv": "GEND",
+                "text": "Gendarmerie"
+            },
+            {
+                "abv": "GAL",
+                "text": "Général"
+            },
+            {
+                "abv": "GOUV",
+                "text": "Gouvernemental"
+            },
+            {
+                "abv": "GOU",
+                "text": "Gouverneur"
+            },
+            {
+                "abv": "GD",
+                "text": "Grand"
+            },
+            {
+                "abv": "GDE",
+                "text": "Grande"
+            },
+            {
+                "abv": "GDES",
+                "text": "Grandes"
+            },
+            {
+                "abv": "GDS",
+                "text": "Grands"
+            },
+            {
+                "abv": "HT",
+                "text": "Haut"
+            },
+            {
+                "abv": "HTE",
+                "text": "Haute"
+            },
+            {
+                "abv": "HTES",
+                "text": "Hautes"
+            },
+            {
+                "abv": "HTS",
+                "text": "Hauts"
+            },
+            {
+                "abv": "HOP",
+                "text": "Hôpital (aux)"
+            },
+            {
+                "abv": "HOSP",
+                "text": "Hospice (Hospitalier)"
+            },
+            {
+                "abv": "HOT",
+                "text": "Hôtel"
+            },
+            {
+                "abv": "INF",
+                "text": "Infanterie INFANT Inférieur (e)"
+            },
+            {
+                "abv": "ING",
+                "text": "Ingénieur"
+            },
+            {
+                "abv": "INSP",
+                "text": "Inspecteur"
+            },
+            {
+                "abv": "INST",
+                "text": "Institut"
+            },
+            {
+                "abv": "INTER",
+                "text": "International (e)"
+            },
+            {
+                "abv": "LABO",
+                "text": "Laboratoire"
+            },
+            {
+                "abv": "LT",
+                "text": "Lieutenant"
+            },
+            {
+                "abv": "LTDV",
+                "text": "Lieutenant de Vaisseau"
+            },
+            {
+                "abv": "MME",
+                "text": "Madame"
+            },
+            {
+                "abv": "MLLE",
+                "text": "Mademoiselle"
+            },
+            {
+                "abv": "MAG",
+                "text": "Magasin"
+            },
+            {
+                "abv": "MAIS",
+                "text": "Maison"
+            },
+            {
+                "abv": "ME",
+                "text": "Maître"
+            },
+            {
+                "abv": "MAL",
+                "text": "Maréchal"
+            },
+            {
+                "abv": "MAR",
+                "text": "Maritime"
+            },
+            {
+                "abv": "MED",
+                "text": "Médecin(Médical)"
+            },
+            {
+                "abv": "MMES",
+                "text": "Mesdames"
+            },
+            {
+                "abv": "MLLES",
+                "text": "Mesdemoiselles"
+            },
+            {
+                "abv": "MM",
+                "text": "Messieurs"
+            },
+            {
+                "abv": "MIL",
+                "text": "Militaire"
+            },
+            {
+                "abv": "MIN",
+                "text": "Ministère"
+            },
+            {
+                "abv": "MGR",
+                "text": "Monseigneur"
+            },
+            {
+                "abv": "MUN",
+                "text": "Municipal"
+            },
+            {
+                "abv": "MUT",
+                "text": "Mutuel"
+            },
+            {
+                "abv": "NAL",
+                "text": "National"
+            },
+            {
+                "abv": "ND",
+                "text": "Notre Dame"
+            },
+            {
+                "abv": "NOUV",
+                "text": "Nouveau (elle)"
+            },
+            {
+                "abv": "OBS",
+                "text": "Observatoire"
+            },
+            {
+                "abv": "PAST",
+                "text": "Pasteur"
+            },
+            {
+                "abv": "PT",
+                "text": "Petit"
+            },
+            {
+                "abv": "PTE",
+                "text": "Petite"
+            },
+            {
+                "abv": "PTES",
+                "text": "Petites"
+            },
+            {
+                "abv": "PTS",
+                "text": "Petits"
+            },
+            {
+                "abv": "POL",
+                "text": "Police"
+            },
+            {
+                "abv": "PREF",
+                "text": "Préfet (préfecture)"
+            },
+            {
+                "abv": "PDT",
+                "text": "Président"
+            },
+            {
+                "abv": "PR",
+                "text": "Professeur"
+            },
+            {
+                "abv": "PROF",
+                "text": "Professionnel (le)"
+            },
+            {
+                "abv": "PROL",
+                "text": "Prolongé (e)"
+            },
+            {
+                "abv": "PROP",
+                "text": "Propriété"
+            },
+            {
+                "abv": "RECT",
+                "text": "Recteur"
+            },
+            {
+                "abv": "RGT",
+                "text": "Régiment"
+            },
+            {
+                "abv": "REG",
+                "text": "Régional (e) "
+            },
+            {
+                "abv": "REP",
+                "text": "République"
+            },
+            {
+                "abv": "REST",
+                "text": "Restaurant"
+            },
+            {
+                "abv": "ST",
+                "text": "Saint"
+            },
+            {
+                "abv": "STE",
+                "text": "Sainte"
+            },
+            {
+                "abv": "STES",
+                "text": "Saintes"
+            },
+            {
+                "abv": "STS",
+                "text": "Saints"
+            },
+            {
+                "abv": "SANA",
+                "text": "Sanatorium"
+            },
+            {
+                "abv": "SGT",
+                "text": "Sergent"
+            },
+            {
+                "abv": "SCE",
+                "text": "Service"
+            },
+            {
+                "abv": "SOC",
+                "text": "Société"
+            },
+            {
+                "abv": "SC",
+                "text": "Sous couvert"
+            },
+            {
+                "abv": "SPREF",
+                "text": "Sous-préfet (Sous-préfecture)"
+            },
+            {
+                "abv": "SUP",
+                "text": "Supérieur (e) "
+            },
+            {
+                "abv": "SYND",
+                "text": "Syndicat"
+            },
+            {
+                "abv": "TECH",
+                "text": "Technicien(que)"
+            },
+            {
+                "abv": "TSA",
+                "text": "Ter T Tri Service Armée"
+            },
+            {
+                "abv": "TUN",
+                "text": "Tunnel"
+            },
+            {
+                "abv": "UNVT",
+                "text": "Universitaire"
+            },
+            {
+                "abv": "UNIV",
+                "text": "Université"
+            },
+            {
+                "abv": "VELOD",
+                "text": "Vélodrome"
+            },
+            {
+                "abv": "VVE",
+                "text": "Veuve"
+            },
+            {
+                "abv": "VIEL",
+                "text": "Vielle(s)"
+            }
+        ],
+        "voies": [
+            {
+                "abv": "ALL",
+                "text": "Allée"
+            },
+            {
+                "abv": "AV",
+                "text": "Avenue"
+            },
+            {
+                "abv": "BD",
+                "text": "Boulevard"
+            },
+            {
+                "abv": "CTRE",
+                "text": "Centre"
+            },
+            {
+                "abv": "CCAL",
+                "text": "Centre commercial"
+            },
+            {
+                "abv": "IMM",
+                "text": "Immeuble(s)"
+            },
+            {
+                "abv": "IMP",
+                "text": "Impasse"
+            },
+            {
+                "abv": "LD",
+                "text": "Lieu-dit"
+            },
+            {
+                "abv": "LOT",
+                "text": "Lotissement"
+            },
+            {
+                "abv": "PAS",
+                "text": "Passage"
+            },
+            {
+                "abv": "PL",
+                "text": "Place"
+            },
+            {
+                "abv": "RES",
+                "text": "Résidence"
+            },
+            {
+                "abv": "RPT",
+                "text": "Rond-point"
+            },
+            {
+                "abv": "RTE",
+                "text": "Route"
+            },
+            {
+                "abv": "SQ",
+                "text": "Square"
+            },
+            {
+                "abv": "VLGE",
+                "text": "Village"
+            },
+            {
+                "abv": "ZA",
+                "text": "Zone d’activité"
+            },
+            {
+                "abv": "ZI",
+                "text": "Zone Industrielle"
+            }
+        ]
+    },
+    "documentField": {
+        "01": {
+            "id": "01",
+            "max": " Aucune",
+            "min": " 0",
+            "shortDesc": "Identifiant unique du document.",
+            "type": " Alphanumérique"
+        },
+        "02": {
+            "id": "02",
+            "max": " Aucune",
+            "min": " 0",
+            "shortDesc": "Catégorie de document",
+            "type": " Alphanumérique"
+        },
+        "03": {
+            "id": "03",
+            "max": " Aucune",
+            "min": " 0",
+            "shortDesc": "Sous-catégorie de document",
+            "type": " Alphanumérique"
+        },
+        "04": {
+            "id": "04",
+            "max": " Aucune",
+            "min": " 0",
+            "shortDesc": "Application de composition",
+            "type": " Alphanumérique"
+        },
+        "05": {
+            "id": "05",
+            "max": " Aucune",
+            "min": " 0",
+            "shortDesc": "Version de l’application de composition",
+            "type": " Alphanumérique"
+        },
+        "06": {
+            "id": "06",
+            "max": " 4",
+            "min": " 4",
+            "shortDesc": "Date de l’association entre le document et le code 2D-Doc.",
+            "type": " Alphanumérique"
+        },
+        "07": {
+            "id": "07",
+            "max": " 6",
+            "min": " 6",
+            "shortDesc": "Heure de l’association entre le document et le code 2D-Doc.",
+            "type": " Numérique"
+        },
+        "08": {
+            "id": "08",
+            "max": " 4",
+            "min": " 4",
+            "shortDesc": "Date d’expiration du document",
+            "type": " Alphanumérique"
+        },
+        "09": {
+            "id": "09",
+            "max": " 4",
+            "min": " 4",
+            "shortDesc": "Nombre de pages du document",
+            "type": " Numérique"
+        },
+        "0A": {
+            "id": "0A",
+            "max": " 9",
+            "min": " 9",
+            "shortDesc": "Editeur du 2D-Doc",
+            "type": " Numérique"
+        },
+        "0B": {
+            "id": "0B",
+            "max": " 9",
+            "min": " 9",
+            "shortDesc": "Intégrateur du 2D-Doc",
+            "type": " Numérique"
+        },
+        "0C": {
+            "id": "0C",
+            "max": " Aucune",
+            "min": " 0",
+            "shortDesc": "URL du document",
+            "type": " Alphanumérique et symboles"
+        },
+        "10": {
+            "id": "10",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 1 de la norme adresse postale du bénéficiaire de la prestation",
+            "type": " Alphanumérique"
+        },
+        "11": {
+            "id": "11",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Qualité et/ou titre de la personne bénéficiaire de la prestation",
+            "type": " Alphanumérique"
+        },
+        "12": {
+            "id": "12",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Prénom de la personne bénéficiaire de la prestation",
+            "type": " Alphanumérique"
+        },
+        "13": {
+            "id": "13",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Nom de la personne bénéficiaire de la prestation",
+            "type": " Alphanumérique"
+        },
+        "14": {
+            "id": "14",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 1 de la norme adresse postale du destinataire de la facture",
+            "type": " Alphanumérique"
+        },
+        "15": {
+            "id": "15",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Qualité et/ou titre de la personne destinataire de la facture",
+            "type": " Alphanumérique"
+        },
+        "16": {
+            "id": "16",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Prénom de la personne destinataire de la facture",
+            "type": " Alphanumérique"
+        },
+        "17": {
+            "id": "17",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Nom de la personne destinataire de la facture",
+            "type": " Alphanumérique"
+        },
+        "18": {
+            "id": "18",
+            "max": " Aucune",
+            "min": " 0",
+            "shortDesc": "Numéro de la facture",
+            "type": " Alphanumérique"
+        },
+        "19": {
+            "id": "19",
+            "max": " Aucune",
+            "min": " 0",
+            "shortDesc": "Numéro de client",
+            "type": " Alphanumérique"
+        },
+        "1A": {
+            "id": "1A",
+            "max": " Aucune",
+            "min": " 0",
+            "shortDesc": "Numéro du contrat",
+            "type": " Alphanumérique"
+        },
+        "1B": {
+            "id": "1B",
+            "max": " Aucune",
+            "min": " 0",
+            "shortDesc": "Identifiant du souscripteur du contrat",
+            "type": " Alphanumérique"
+        },
+        "1C": {
+            "id": "1C",
+            "max": " 8",
+            "min": " 8",
+            "shortDesc": "Date d’effet du contrat",
+            "type": " Numérique"
+        },
+        "1D": {
+            "id": "1D",
+            "max": " 16",
+            "min": " 0",
+            "shortDesc": "Montant TTC de la facture",
+            "type": " Numérique"
+        },
+        "1E": {
+            "id": "1E",
+            "max": " 30",
+            "min": " 0",
+            "shortDesc": "Numéro de téléphone du bénéficiaire de la prestation",
+            "type": " Numérique"
+        },
+        "1F": {
+            "id": "1F",
+            "max": " 30",
+            "min": " 0",
+            "shortDesc": "Numéro de téléphone du destinataire de la facture",
+            "type": " Numérique"
+        },
+        "1G": {
+            "id": "1G",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Présence d’un co-bénéficiaire de la prestation non mentionné dans le code",
+            "type": " Numérique"
+        },
+        "1H": {
+            "id": "1H",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Présence d’un co-destinataire de la facture non mentionné dans le code",
+            "type": " Numérique"
+        },
+        "1I": {
+            "id": "1I",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 1 de la norme adresse postale du co-bénéficiaire de la prestation.",
+            "type": " Alphanumérique"
+        },
+        "1J": {
+            "id": "1J",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Qualité et/ou titre du co-bénéficiaire de la prestation.",
+            "type": " Alphanumérique"
+        },
+        "1K": {
+            "id": "1K",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Prénom du co-bénéficiaire de la prestation.",
+            "type": " Alphanumérique"
+        },
+        "1L": {
+            "id": "1L",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Nom du co-bénéficiaire de la prestation.",
+            "type": " Alphanumérique"
+        },
+        "1M": {
+            "id": "1M",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 1 de la norme adresse postale du co-destinataire de la facture.",
+            "type": " Alphanumérique"
+        },
+        "1N": {
+            "id": "1N",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Qualité et/ou titre du co-destinataire de la facture.",
+            "type": " Alphanumérique"
+        },
+        "1O": {
+            "id": "1O",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Prénom du co-destinataire de la facture.",
+            "type": " Alphanumérique"
+        },
+        "1P": {
+            "id": "1P",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Nom du co-destinataire de la facture.",
+            "type": " Alphanumérique"
+        },
+        "20": {
+            "id": "20",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 2 de la norme adresse postale du point de service des prestations",
+            "type": " Alphanumérique"
+        },
+        "21": {
+            "id": "21",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 3 de la norme adresse postale du point de service des prestations",
+            "type": " Alphanumérique"
+        },
+        "22": {
+            "id": "22",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 4 de la norme adresse postale du point de service des prestations",
+            "type": " Alphanumérique"
+        },
+        "23": {
+            "id": "23",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 5 de la norme adresse postale du point de service des prestations",
+            "type": " Alphanumérique"
+        },
+        "24": {
+            "id": "24",
+            "max": " 5",
+            "min": " 5",
+            "shortDesc": "Code postal ou code cedex du point de service des prestations",
+            "type": " Numérique"
+        },
+        "25": {
+            "id": "25",
+            "max": " 32",
+            "min": " 0",
+            "shortDesc": "Localité de destination ou libellé cedex du point de service des prestations",
+            "type": " Numérique"
+        },
+        "26": {
+            "id": "26",
+            "max": " 2",
+            "min": " 2",
+            "shortDesc": "Pays de service des prestations",
+            "type": " Alphanumérique"
+        },
+        "27": {
+            "id": "27",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 2 de la norme adresse postale du destinataire de la facture",
+            "type": " Alphanumérique"
+        },
+        "28": {
+            "id": "28",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 3 de la norme adresse postale du destinataire de la facture",
+            "type": " Alphanumérique"
+        },
+        "29": {
+            "id": "29",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 4 de la norme adresse postale du destinataire de la facture",
+            "type": " Alphanumérique"
+        },
+        "2A": {
+            "id": "2A",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 5 de la norme adresse postale du destinataire de la facture",
+            "type": " Alphanumérique"
+        },
+        "2B": {
+            "id": "2B",
+            "max": " 5",
+            "min": " 5",
+            "shortDesc": "Code postal ou code cedex du destinataire de la facture",
+            "type": " Numérique"
+        },
+        "2C": {
+            "id": "2C",
+            "max": " 32",
+            "min": " 0",
+            "shortDesc": "Localité de destination ou libellé cedex du destinataire de la facture",
+            "type": " Numérique"
+        },
+        "2D": {
+            "id": "2D",
+            "max": " 2",
+            "min": " 2",
+            "shortDesc": "Pays du destinataire de la facture",
+            "type": " Alphanumérique"
+        },
+        "30": {
+            "id": "30",
+            "max": " 140",
+            "min": " 0",
+            "shortDesc": "Qualité Nom et Prénom.",
+            "type": " Alphanumérique"
+        },
+        "31": {
+            "id": "31",
+            "max": " 38",
+            "min": " 14",
+            "shortDesc": "Code IBAN",
+            "type": " Alphanumérique"
+        },
+        "32": {
+            "id": "32",
+            "max": " 11",
+            "min": " 8",
+            "shortDesc": "Code BIC/SWIFT",
+            "type": " Alphanumérique"
+        },
+        "33": {
+            "id": "33",
+            "max": " 30",
+            "min": " 0",
+            "shortDesc": "Code BBAN",
+            "type": " Alphanumérique"
+        },
+        "34": {
+            "id": "34",
+            "max": " 2",
+            "min": " 2",
+            "shortDesc": "Pays de localisation du compte",
+            "type": " Alphanumérique"
+        },
+        "35": {
+            "id": "35",
+            "max": " 34",
+            "min": " 14",
+            "shortDesc": "Identifiant SEPAmail (QXBAN)",
+            "type": " Alphanumérique"
+        },
+        "36": {
+            "id": "36",
+            "max": " 4",
+            "min": " 4",
+            "shortDesc": "Date de début de période",
+            "type": " Alphanumérique"
+        },
+        "37": {
+            "id": "37",
+            "max": " 4",
+            "min": " 4",
+            "shortDesc": "Date de fin de période",
+            "type": " Alphanumérique"
+        },
+        "38": {
+            "id": "38",
+            "max": " 11",
+            "min": " 0",
+            "shortDesc": "Solde compte début de période",
+            "type": " Numérique"
+        },
+        "39": {
+            "id": "39",
+            "max": " 11",
+            "min": " 0",
+            "shortDesc": "Solde compte fin de période",
+            "type": " Numérique"
+        },
+        "40": {
+            "id": "40",
+            "max": " 13",
+            "min": " 13",
+            "shortDesc": "Numéro fiscal",
+            "type": " Numérique"
+        },
+        "41": {
+            "id": "41",
+            "max": " Aucune",
+            "min": " 0",
+            "shortDesc": "Revenu fiscal de référence",
+            "type": " Numérique"
+        },
+        "42": {
+            "id": "42",
+            "max": " Aucune",
+            "min": " 0",
+            "shortDesc": "Situation du foyer",
+            "type": " Alphanumérique"
+        },
+        "43": {
+            "id": "43",
+            "max": " Aucune",
+            "min": " 0",
+            "shortDesc": "Nombre de parts",
+            "type": " Numérique"
+        },
+        "44": {
+            "id": "44",
+            "max": " 13",
+            "min": " 13",
+            "shortDesc": "Référence d’avis d’impôt",
+            "type": " Alphanumérique"
+        },
+        "50": {
+            "id": "50",
+            "max": " 14",
+            "min": " 14",
+            "shortDesc": "SIRET de l’employeur",
+            "type": " Numérique"
+        },
+        "51": {
+            "id": "51",
+            "max": " 6",
+            "min": " 6",
+            "shortDesc": "Nombre d’heures travaillées",
+            "type": " Numérique"
+        },
+        "52": {
+            "id": "52",
+            "max": " 7",
+            "min": " 7",
+            "shortDesc": "Cumul du nombre d’heures travaillées",
+            "type": " Numérique"
+        },
+        "53": {
+            "id": "53",
+            "max": " 4",
+            "min": " 4",
+            "shortDesc": "Début de période",
+            "type": " Alphanumérique"
+        },
+        "54": {
+            "id": "54",
+            "max": " 4",
+            "min": " 4",
+            "shortDesc": "Fin de période",
+            "type": " Alphanumérique"
+        },
+        "55": {
+            "id": "55",
+            "max": " 8",
+            "min": " 8",
+            "shortDesc": "Date de début de contrat",
+            "type": " Numérique"
+        },
+        "56": {
+            "id": "56",
+            "max": " 4",
+            "min": " 4",
+            "shortDesc": "Date de fin de contrat",
+            "type": " Alphanumérique"
+        },
+        "57": {
+            "id": "57",
+            "max": " 8",
+            "min": " 8",
+            "shortDesc": "Date de signature du contrat",
+            "type": " Numérique"
+        },
+        "58": {
+            "id": "58",
+            "max": " 11",
+            "min": " 0",
+            "shortDesc": "Salaire net imposable",
+            "type": " Numérique"
+        },
+        "59": {
+            "id": "59",
+            "max": " 12",
+            "min": " 0",
+            "shortDesc": "Cumul du salaire net imposable",
+            "type": " Numérique"
+        },
+        "5A": {
+            "id": "5A",
+            "max": " 11",
+            "min": " 0",
+            "shortDesc": "Salaire brut du mois",
+            "type": " Numérique"
+        },
+        "5B": {
+            "id": "5B",
+            "max": " 12",
+            "min": " 0",
+            "shortDesc": "Cumul du salaire brut",
+            "type": " Numérique"
+        },
+        "5C": {
+            "id": "5C",
+            "max": " 11",
+            "min": " 0",
+            "shortDesc": "Salaire net",
+            "type": " Numérique"
+        },
+        "5D": {
+            "id": "5D",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 2 de la norme adresse postale de l’employeur",
+            "type": " Alphanumérique"
+        },
+        "5E": {
+            "id": "5E",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 3 de la norme adresse postale de l’employeur",
+            "type": " Alphanumérique"
+        },
+        "5F": {
+            "id": "5F",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 4 de la norme adresse postale de l’employeur",
+            "type": " Alphanumérique"
+        },
+        "5G": {
+            "id": "5G",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Ligne 5 de la norme adresse postale de l’employeur",
+            "type": " Alphanumérique"
+        },
+        "5H": {
+            "id": "5H",
+            "max": " 5",
+            "min": " 5",
+            "shortDesc": "Code postal ou code cedex de l’employeur",
+            "type": " Numérique"
+        },
+        "5I": {
+            "id": "5I",
+            "max": " 32",
+            "min": " 0",
+            "shortDesc": "Localité de destination ou libellé cedex de l’employeur",
+            "type": " Alphanumérique"
+        },
+        "5J": {
+            "id": "5J",
+            "max": " 2",
+            "min": " 2",
+            "shortDesc": "Pays de l’employeur",
+            "type": " Alphanumérique"
+        },
+        "5K": {
+            "id": "5K",
+            "max": " 50",
+            "min": " 0",
+            "shortDesc": "Identifiant Cotisant Prestations Sociales",
+            "type": " Alphanumérique"
+        },
+        "60": {
+            "id": "60",
+            "max": " 60",
+            "min": " 0",
+            "shortDesc": "Liste des prénoms",
+            "type": " Alphanumérique"
+        },
+        "61": {
+            "id": "61",
+            "max": " 20",
+            "min": " 0",
+            "shortDesc": "Prénom",
+            "type": " Alphanumérique"
+        },
+        "62": {
+            "id": "62",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Nom patronymique",
+            "type": " Alphanumérique"
+        },
+        "63": {
+            "id": "63",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Nom d’usage",
+            "type": " Alphanumérique"
+        },
+        "64": {
+            "id": "64",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Nom d’épouse/époux",
+            "type": " Alphanumérique"
+        },
+        "65": {
+            "id": "65",
+            "max": " 2",
+            "min": " 2",
+            "shortDesc": "Type de pièce d’identité",
+            "type": " de pièce d’identitéTaille Min. 2 Taille Max. 2 Type Alphanumérique"
+        },
+        "66": {
+            "id": "66",
+            "max": " 20",
+            "min": " 0",
+            "shortDesc": "Numéro de la pièce d’identité",
+            "type": " Alphanumérique"
+        },
+        "67": {
+            "id": "67",
+            "max": " 2",
+            "min": " 2",
+            "shortDesc": "Nationalité",
+            "type": " Alphanumérique"
+        },
+        "68": {
+            "id": "68",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Genre",
+            "type": " Alphanumérique"
+        },
+        "69": {
+            "id": "69",
+            "max": " 8",
+            "min": " 8",
+            "shortDesc": "Date de naissance",
+            "type": " Numérique"
+        },
+        "6A": {
+            "id": "6A",
+            "max": " 32",
+            "min": " 0",
+            "shortDesc": "Lieu de naissance",
+            "type": " Alphanumérique"
+        },
+        "6B": {
+            "id": "6B",
+            "max": " 3",
+            "min": " 3",
+            "shortDesc": "Département du bureau émetteur",
+            "type": " Alphanumérique"
+        },
+        "6C": {
+            "id": "6C",
+            "max": " 2",
+            "min": " 2",
+            "shortDesc": "Pays de naissance",
+            "type": " Alphanumérique"
+        },
+        "6D": {
+            "id": "6D",
+            "max": " 60",
+            "min": " 0",
+            "shortDesc": "Nom et prénom du père",
+            "type": " Alphanumérique"
+        },
+        "6E": {
+            "id": "6E",
+            "max": " 60",
+            "min": " 0",
+            "shortDesc": "Nom et prénom de la mère",
+            "type": " Alphanumérique"
+        },
+        "6F": {
+            "id": "6F",
+            "max": " 90",
+            "min": " 0",
+            "shortDesc": "Machine Readable Zone (Zone de Lecture Automatique, ZLA)",
+            "type": " Alphanumérique"
+        },
+        "6G": {
+            "id": "6G",
+            "max": " 38",
+            "min": " 1",
+            "shortDesc": "Nom",
+            "type": " Alphanumérique"
+        },
+        "6H": {
+            "id": "6H",
+            "max": " 10",
+            "min": " 1",
+            "shortDesc": "Civilité",
+            "type": " Alphanumérique"
+        },
+        "6I": {
+            "id": "6I",
+            "max": " 2",
+            "min": " 2",
+            "shortDesc": "Pays émetteur",
+            "type": " Alphanumérique"
+        },
+        "70": {
+            "id": "70",
+            "max": " 12",
+            "min": " 12",
+            "shortDesc": "Date et heure du décès",
+            "type": " Numérique"
+        },
+        "71": {
+            "id": "71",
+            "max": " 12",
+            "min": " 12",
+            "shortDesc": "Date et heure du constat de décès",
+            "type": " Numérique"
+        },
+        "72": {
+            "id": "72",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Nom du défunt",
+            "type": " Alphanumérique"
+        },
+        "73": {
+            "id": "73",
+            "max": " 60",
+            "min": " 0",
+            "shortDesc": "Prénoms du défunt",
+            "type": " Alphanumérique"
+        },
+        "74": {
+            "id": "74",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Nom de jeune fille du défunt",
+            "type": " Alphanumérique"
+        },
+        "75": {
+            "id": "75",
+            "max": " 8",
+            "min": " 8",
+            "shortDesc": "Date de naissance du défunt",
+            "type": " Numérique"
+        },
+        "76": {
+            "id": "76",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Genre du défunt",
+            "type": " Alphanumérique"
+        },
+        "77": {
+            "id": "77",
+            "max": " 45",
+            "min": " 0",
+            "shortDesc": "Commune de décès",
+            "type": " Alphanumérique"
+        },
+        "78": {
+            "id": "78",
+            "max": " 5",
+            "min": " 5",
+            "shortDesc": "Code postal de la commune de décès",
+            "type": " Numérique"
+        },
+        "79": {
+            "id": "79",
+            "max": " 114",
+            "min": " 0",
+            "shortDesc": "Adresse du domicile du défunt",
+            "type": " Alphanumérique"
+        },
+        "7A": {
+            "id": "7A",
+            "max": " 5",
+            "min": " 5",
+            "shortDesc": "Code postal du domicile du défunt",
+            "type": " Numérique"
+        },
+        "7B": {
+            "id": "7B",
+            "max": " 45",
+            "min": " 0",
+            "shortDesc": "Commune du domicile du défunt",
+            "type": " Alphanumérique"
+        },
+        "7C": {
+            "id": "7C",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Obstacle médico-légal",
+            "type": " Numérique"
+        },
+        "7D": {
+            "id": "7D",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Mise en bière",
+            "type": " Alphanumérique"
+        },
+        "7E": {
+            "id": "7E",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Obstacle aux soins de conservation",
+            "type": " Numérique"
+        },
+        "7F": {
+            "id": "7F",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Obstacle aux dons du corps",
+            "type": " Numérique"
+        },
+        "7G": {
+            "id": "7G",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Recherche de la cause du décès",
+            "type": " Numérique"
+        },
+        "7H": {
+            "id": "7H",
+            "max": " 2",
+            "min": " 2",
+            "shortDesc": "Délai de transport du corps",
+            "type": " Alphanumérique"
+        },
+        "7I": {
+            "id": "7I",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Prothèse avec pile",
+            "type": " Numérique"
+        },
+        "7J": {
+            "id": "7J",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Retrait de la pile de prothèse",
+            "type": " Numérique"
+        },
+        "7K": {
+            "id": "7K",
+            "max": " 13",
+            "min": " 13",
+            "shortDesc": "Code NNC",
+            "type": " Alphanumérique"
+        },
+        "7L": {
+            "id": "7L",
+            "max": " 9",
+            "min": " 9",
+            "shortDesc": "Code Finess de l'organisme agréé",
+            "type": " Alphanumérique"
+        },
+        "7M": {
+            "id": "7M",
+            "max": " 64",
+            "min": " 0",
+            "shortDesc": "Identification du médecin",
+            "type": " Alphanumérique"
+        },
+        "7N": {
+            "id": "7N",
+            "max": " 128",
+            "min": " 0",
+            "shortDesc": "Lieu de validation du certificat de décès",
+            "type": " Alphanumérique"
+        },
+        "7O": {
+            "id": "7O",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Certificat de décès supplémentaire",
+            "type": " Numérique"
+        },
+        "80": {
+            "id": "80",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Nom",
+            "type": " Alphanumérique"
+        },
+        "81": {
+            "id": "81",
+            "max": " 60",
+            "min": " 0",
+            "shortDesc": "Prénoms",
+            "type": " Alphanumérique"
+        },
+        "82": {
+            "id": "82",
+            "max": " 20",
+            "min": " 0",
+            "shortDesc": "Numéro de carte",
+            "type": " Alphanumérique"
+        },
+        "83": {
+            "id": "83",
+            "max": " 40",
+            "min": " 0",
+            "shortDesc": "Organisme de tutelle",
+            "type": " Alphanumérique"
+        },
+        "84": {
+            "id": "84",
+            "max": " 40",
+            "min": " 0",
+            "shortDesc": "Profession",
+            "type": " Alphanumérique"
+        },
+        "90": {
+            "id": "90",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Identité de l'huissier de justice",
+            "type": " Alphanumérique"
+        },
+        "91": {
+            "id": "91",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Identité ou raison sociale du demandeur",
+            "type": " Alphanumérique"
+        },
+        "92": {
+            "id": "92",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Identité ou raison sociale du destinataire",
+            "type": " Alphanumérique"
+        },
+        "93": {
+            "id": "93",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Identité ou raison sociale de tiers concerné",
+            "type": " Alphanumérique"
+        },
+        "94": {
+            "id": "94",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Intitulé de l'acte",
+            "type": " Alphanumérique"
+        },
+        "95": {
+            "id": "95",
+            "max": " 18",
+            "min": " 0",
+            "shortDesc": "Numéro de l'acte",
+            "type": " Alphanumérique"
+        },
+        "96": {
+            "id": "96",
+            "max": " 8",
+            "min": " 8",
+            "shortDesc": "Date de signature de l'acte",
+            "type": " Numérique"
+        },
+        "A0": {
+            "id": "A0",
+            "max": " 2",
+            "min": " 2",
+            "shortDesc": "Pays ayant émis l’immatriculation du véhicule.",
+            "type": " Alphanumérique"
+        },
+        "A1": {
+            "id": "A1",
+            "max": " 17",
+            "min": " 0",
+            "shortDesc": "Immatriculation du véhicule",
+            "type": " Alphanumérique"
+        },
+        "A2": {
+            "id": "A2",
+            "max": " 17",
+            "min": " 0",
+            "shortDesc": "Marque du véhicule.",
+            "type": " Alphanumérique"
+        },
+        "A3": {
+            "id": "A3",
+            "max": " 17",
+            "min": " 0",
+            "shortDesc": "Nom commercial du véhicule.",
+            "type": " Alphanumérique"
+        },
+        "A4": {
+            "id": "A4",
+            "max": " 17",
+            "min": " 17",
+            "shortDesc": "Numéro de série du véhicule (VIN).",
+            "type": " Alphanumérique"
+        },
+        "A5": {
+            "id": "A5",
+            "max": " 3",
+            "min": " 3",
+            "shortDesc": "Catégorie du véhicule.",
+            "type": " Alphanumérique"
+        },
+        "A6": {
+            "id": "A6",
+            "max": " 2",
+            "min": " 2",
+            "shortDesc": "Carburant.",
+            "type": " Alphanumérique"
+        },
+        "A7": {
+            "id": "A7",
+            "max": " 3",
+            "min": " 3",
+            "shortDesc": "Taux d’émission de CO2 du véhicule (en g/km).",
+            "type": " Alphanumérique"
+        },
+        "A8": {
+            "id": "A8",
+            "max": " 12",
+            "min": " 0",
+            "shortDesc": "Indication de la classe environnementale de réception CE.",
+            "type": " Alphanumérique"
+        },
+        "A9": {
+            "id": "A9",
+            "max": " 3",
+            "min": " 3",
+            "shortDesc": "Classe d’émission polluante.",
+            "type": " Alphanumérique"
+        },
+        "AA": {
+            "id": "AA",
+            "max": " 8",
+            "min": " 8",
+            "shortDesc": "Date de première immatriculation du véhicule.",
+            "type": " Numérique"
+        },
+        "AB": {
+            "id": "AB",
+            "max": " 8",
+            "min": " 0",
+            "shortDesc": "Type de lettre",
+            "type": " de lettreTaille Min. 0 Taille Max. 8 Type Alphanumérique"
+        },
+        "AC": {
+            "id": "AC",
+            "max": " 19",
+            "min": " 0",
+            "shortDesc": "N° Dossier",
+            "type": " Alphanumérique"
+        },
+        "AD": {
+            "id": "AD",
+            "max": " 4",
+            "min": " 4",
+            "shortDesc": "Date Infraction",
+            "type": " Alphanumérique"
+        },
+        "AE": {
+            "id": "AE",
+            "max": " 4",
+            "min": " 4",
+            "shortDesc": "Heure de l’infraction",
+            "type": " Numérique"
+        },
+        "AF": {
+            "id": "AF",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Nombre de points  retirés lors de l’infraction",
+            "type": " Alphanumérique"
+        },
+        "AG": {
+            "id": "AG",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Solde de points",
+            "type": " Alphanumérique"
+        },
+        "AH": {
+            "id": "AH",
+            "max": " 30",
+            "min": " 0",
+            "shortDesc": "Numéro de la carte",
+            "type": " Alphanumérique"
+        },
+        "AI": {
+            "id": "AI",
+            "max": " 8",
+            "min": " 8",
+            "shortDesc": "Date d’expiration initiale",
+            "type": " Numérique"
+        },
+        "AJ": {
+            "id": "AJ",
+            "max": " 13",
+            "min": " 13",
+            "shortDesc": "Numéro EVTC",
+            "type": " Alphanumérique"
+        },
+        "AK": {
+            "id": "AK",
+            "max": " 7",
+            "min": " 7",
+            "shortDesc": "Numéro de macaron",
+            "type": " Numérique"
+        },
+        "AL": {
+            "id": "AL",
+            "max": " 11",
+            "min": " 11",
+            "shortDesc": "Numéro de la carte",
+            "type": " Alphanumérique"
+        },
+        "AM": {
+            "id": "AM",
+            "max": " 5",
+            "min": " 0",
+            "shortDesc": "Motif de sur-classement",
+            "type": " Alphanumérique"
+        },
+        "B0": {
+            "id": "B0",
+            "max": " 60",
+            "min": " 0",
+            "shortDesc": "Liste des prénoms",
+            "type": " Alphanumérique"
+        },
+        "B1": {
+            "id": "B1",
+            "max": " 20",
+            "min": " 0",
+            "shortDesc": "Prénom",
+            "type": " Alphanumérique"
+        },
+        "B2": {
+            "id": "B2",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Nom patronymique",
+            "type": " Alphanumérique"
+        },
+        "B3": {
+            "id": "B3",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Nom d'usage",
+            "type": " Alphanumérique"
+        },
+        "B4": {
+            "id": "B4",
+            "max": " 38",
+            "min": " 0",
+            "shortDesc": "Nom d'épouse/époux",
+            "type": " Alphanumérique"
+        },
+        "B5": {
+            "id": "B5",
+            "max": " 2",
+            "min": " 2",
+            "shortDesc": "Nationalité",
+            "type": " Alphanumérique"
+        },
+        "B6": {
+            "id": "B6",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Genre",
+            "type": " Alphanumérique"
+        },
+        "B7": {
+            "id": "B7",
+            "max": " 8",
+            "min": " 8",
+            "shortDesc": "Date de naissance",
+            "type": " Numérique"
+        },
+        "B8": {
+            "id": "B8",
+            "max": " 32",
+            "min": " 0",
+            "shortDesc": "Lieu de naissance",
+            "type": " Alphanumérique"
+        },
+        "B9": {
+            "id": "B9",
+            "max": " 2",
+            "min": " 2",
+            "shortDesc": "Pays de naissance",
+            "type": " Alphanumérique"
+        },
+        "BA": {
+            "id": "BA",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Mention obtenue",
+            "type": " Numérique"
+        },
+        "BB": {
+            "id": "BB",
+            "max": " 50",
+            "min": " 0",
+            "shortDesc": "Numéro ou code d'identification de l'étudiant",
+            "type": " Alphanumérique"
+        },
+        "BC": {
+            "id": "BC",
+            "max": " 20",
+            "min": " 0",
+            "shortDesc": "Numéro du diplôme",
+            "type": " Alphanumérique"
+        },
+        "BD": {
+            "id": "BD",
+            "max": " 1",
+            "min": " 1",
+            "shortDesc": "Niveau du diplôme selon la classification CEC",
+            "type": " Numérique"
+        },
+        "BE": {
+            "id": "BE",
+            "max": " 3",
+            "min": " 3",
+            "shortDesc": "Crédits ECTS obtenus",
+            "type": " Numérique"
+        },
+        "BF": {
+            "id": "BF",
+            "max": " 3",
+            "min": " 3",
+            "shortDesc": "Année universitaire",
+            "type": " Numérique"
+        },
+        "BG": {
+            "id": "BG",
+            "max": " 2 Type Alphanumérique Description",
+            "min": " 2",
+            "shortDesc": "Type de diplôme",
+            "type": " de diplômeTaille Min. 2 Taille Max. 2 Type Alphanumérique"
+        },
+        "BH": {
+            "id": "BH",
+            "max": " 30",
+            "min": " 0",
+            "shortDesc": "Domaine",
+            "type": " Alphanumérique"
+        },
+        "BI": {
+            "id": "BI",
+            "max": " 30",
+            "min": " 0",
+            "shortDesc": "Mention",
+            "type": " Alphanumérique"
+        },
+        "BJ": {
+            "id": "BJ",
+            "max": " 30",
+            "min": " 0",
+            "shortDesc": "Spécialité",
+            "type": " Alphanumérique"
+        },
+        "BK": {
+            "id": "BK",
+            "max": " 14",
+            "min": " 14",
+            "shortDesc": "Numéro de l'Attestation de versement de la CVE",
+            "type": " Alphanumérique"
+        }
+    },
+    "documentType": {
+        "00": {
+            "creatorType": "Document émis spécifiquement pour servir de justificatif de domicile.",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "1A",
+                "1B",
+                "1C",
+                "1D",
+                "1E",
+                "1F",
+                "1G",
+                "1G",
+                "1G",
+                "1H",
+                "1I",
+                "1I",
+                "1I",
+                "1J",
+                "1J",
+                "1J",
+                "1K",
+                "1K",
+                "1K",
+                "1L",
+                "1L",
+                "1L",
+                "1M",
+                "1N",
+                "1O",
+                "1P",
+                "20",
+                "21",
+                "23",
+                "23",
+                "25",
+                "27",
+                "28",
+                "29",
+                "2A",
+                "2B",
+                "2C",
+                "2D"
+            ],
+            "forbidden": [
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "1A",
+                "1B",
+                "1C",
+                "1D",
+                "1E",
+                "1F",
+                "1H",
+                "1M",
+                "1N",
+                "1O",
+                "1P",
+                "27",
+                "28",
+                "29",
+                "2A",
+                "2B",
+                "2C",
+                "2D"
+            ],
+            "id": "00",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "10",
+                "11",
+                "12",
+                "13",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24",
+                "25",
+                "26"
+            ],
+            "userType": "Justificatif de domicile"
+        },
+        "01": {
+            "creatorType": "Factures de fournisseur d’énergie - Factures de téléphonie - Factures de fournisseur d’accès internet - Factures de fournisseur d’eau",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "1A",
+                "1B",
+                "1C",
+                "1D",
+                "1E",
+                "1F",
+                "1G",
+                "1G",
+                "1G",
+                "1H",
+                "1I",
+                "1I",
+                "1I",
+                "1J",
+                "1J",
+                "1J",
+                "1K",
+                "1K",
+                "1K",
+                "1L",
+                "1L",
+                "1L",
+                "1M",
+                "1N",
+                "1O",
+                "1P",
+                "20",
+                "21",
+                "23",
+                "23",
+                "25",
+                "27",
+                "28",
+                "29",
+                "2A",
+                "2B",
+                "2C",
+                "2D"
+            ],
+            "forbidden": [],
+            "id": "01",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "10",
+                "11",
+                "12",
+                "13",
+                "22",
+                "24",
+                "26"
+            ],
+            "userType": "Justificatif de domicile"
+        },
+        "02": {
+            "creatorType": "Avis de taxe d’habitation",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "1A",
+                "1B",
+                "1C",
+                "1D",
+                "1E",
+                "1F",
+                "1G",
+                "1G",
+                "1G",
+                "1H",
+                "1I",
+                "1I",
+                "1I",
+                "1J",
+                "1J",
+                "1J",
+                "1K",
+                "1K",
+                "1K",
+                "1L",
+                "1L",
+                "1L",
+                "1M",
+                "1N",
+                "1O",
+                "1P",
+                "20",
+                "21",
+                "23",
+                "23",
+                "25",
+                "27",
+                "28",
+                "29",
+                "2A",
+                "2B",
+                "2C",
+                "2D"
+            ],
+            "forbidden": [
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "1A",
+                "1B",
+                "1C",
+                "1D",
+                "1E",
+                "1F",
+                "1H",
+                "1M",
+                "1N",
+                "1O",
+                "1P",
+                "27",
+                "28",
+                "29",
+                "2A",
+                "2B",
+                "2C",
+                "2D"
+            ],
+            "id": "02",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "10",
+                "11",
+                "12",
+                "13",
+                "22",
+                "24",
+                "25",
+                "26"
+            ],
+            "userType": "Justificatif de domicile"
+        },
+        "03": {
+            "creatorType": "Relevé d’identité bancaire.",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "38",
+                "39"
+            ],
+            "forbidden": [
+                "35",
+                "36",
+                "37",
+                "38"
+            ],
+            "id": "03",
+            "isCreationDateMandatory": false,
+            "mandatory": [
+                "30",
+                "31",
+                "32"
+            ],
+            "userType": "Justificatif de domiciliation bancaire"
+        },
+        "04": {
+            "creatorType": "Avis d’impôt sur le revenu",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "40",
+                "41",
+                "42",
+                "43",
+                "44"
+            ],
+            "forbidden": [],
+            "id": "04",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "10",
+                "11",
+                "12",
+                "13",
+                "40",
+                "41"
+            ],
+            "userType": "Justificatif de ressources"
+        },
+        "05": {
+            "creatorType": "Relevé d’Identité SEPAmail",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "38",
+                "39"
+            ],
+            "forbidden": [
+                "36",
+                "37",
+                "38"
+            ],
+            "id": "05",
+            "isCreationDateMandatory": false,
+            "mandatory": [
+                "30",
+                "31",
+                "32",
+                "35"
+            ],
+            "userType": "Justificatif de domiciliation bancaire"
+        },
+        "06": {
+            "creatorType": "Bulletin de salaire",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "50",
+                "51",
+                "52",
+                "53",
+                "54",
+                "55",
+                "56",
+                "57",
+                "58",
+                "59",
+                "5A",
+                "5B",
+                "5C",
+                "5D",
+                "5E",
+                "5F",
+                "5G",
+                "5H",
+                "5I",
+                "5J",
+                "5K",
+                "53",
+                "54",
+                "55",
+                "57",
+                "58",
+                "59",
+                "5A"
+            ],
+            "forbidden": [
+                "61",
+                "62"
+            ],
+            "id": "06",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "10",
+                "11",
+                "12",
+                "13",
+                "50",
+                "53",
+                "54",
+                "55",
+                "58",
+                "59"
+            ],
+            "userType": "Justificatif de ressources"
+        },
+        "07": {
+            "creatorType": "Titre d’identité",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "60",
+                "61",
+                "62",
+                "63",
+                "64",
+                "65",
+                "66",
+                "67",
+                "68",
+                "69",
+                "6A",
+                "6B",
+                "6C",
+                "6D",
+                "6E",
+                "6F",
+                "6G",
+                "6H",
+                "6I",
+                "6F"
+            ],
+            "forbidden": [],
+            "id": "07",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "60",
+                "62",
+                "65",
+                "66",
+                "67",
+                "68",
+                "6C"
+            ],
+            "userType": "Justificatif d’identité"
+        },
+        "08": {
+            "creatorType": "MRZ",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "60",
+                "61",
+                "62",
+                "63",
+                "64",
+                "65",
+                "66",
+                "67",
+                "68",
+                "69",
+                "6A",
+                "6B",
+                "6C",
+                "6D",
+                "6E",
+                "6F",
+                "6G",
+                "6H",
+                "6I",
+                "6F"
+            ],
+            "forbidden": [
+                "60",
+                "62",
+                "65",
+                "66",
+                "67",
+                "68",
+                "6C"
+            ],
+            "id": "08",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "6F"
+            ],
+            "userType": "Justificatif d’identité"
+        },
+        "09": {
+            "creatorType": "Facture étendue",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C"
+            ],
+            "forbidden": [],
+            "id": "09",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "10",
+                "11",
+                "12",
+                "13",
+                "22",
+                "24",
+                "26"
+            ],
+            "userType": "Justificatif fiscal"
+        },
+        "10": {
+            "creatorType": "Contrat de travail",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "50",
+                "51",
+                "52",
+                "53",
+                "54",
+                "55",
+                "56",
+                "57",
+                "58",
+                "59",
+                "5A",
+                "5B",
+                "5C",
+                "5D",
+                "5E",
+                "5F",
+                "5G",
+                "5H",
+                "5I",
+                "5J",
+                "5K",
+                "53",
+                "54",
+                "55",
+                "57",
+                "58",
+                "59",
+                "5A"
+            ],
+            "forbidden": [
+                "10",
+                "11",
+                "12",
+                "13"
+            ],
+            "id": "10",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "50",
+                "57",
+                "5A",
+                "61",
+                "62"
+            ],
+            "userType": "Justificatif d’emploi"
+        },
+        "11": {
+            "creatorType": "Relevé de compte",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "38",
+                "39"
+            ],
+            "forbidden": [],
+            "id": "11",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "30",
+                "31",
+                "32",
+                "35",
+                "36",
+                "37",
+                "38"
+            ],
+            "userType": "Justificatif de ressources"
+        },
+        "12": {
+            "creatorType": "Acte d’huissier",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "91",
+                "93",
+                "95"
+            ],
+            "forbidden": [],
+            "id": "12",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "90",
+                "92",
+                "94",
+                "96"
+            ],
+            "userType": "Justificatif juridique/judiciaire"
+        },
+        "A0": {
+            "creatorType": "Certificat de qualité de l’air",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "A0",
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6",
+                "A7",
+                "A8",
+                "A9",
+                "AA",
+                "AB",
+                "AC",
+                "AD",
+                "AE",
+                "AF",
+                "AG",
+                "AH",
+                "AI",
+                "AJ",
+                "AK",
+                "AL",
+                "AM",
+                "A3",
+                "A7"
+            ],
+            "forbidden": [
+                "AB",
+                "AC",
+                "AH",
+                "AI",
+                "AJ",
+                "AK",
+                "AL",
+                "AM",
+                "6H",
+                "6G",
+                "60",
+                "69"
+            ],
+            "id": "A0",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "A0",
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6",
+                "A7",
+                "A9"
+            ],
+            "userType": "Justificatif écologique de véhicule"
+        },
+        "A1": {
+            "creatorType": "Courrier Permis à Points",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "A0",
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6",
+                "A7",
+                "A8",
+                "A9",
+                "AA",
+                "AB",
+                "AC",
+                "AD",
+                "AE",
+                "AF",
+                "AG",
+                "AH",
+                "AI",
+                "AJ",
+                "AK",
+                "AL",
+                "AM",
+                "A3",
+                "A7"
+            ],
+            "forbidden": [
+                "A0",
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6",
+                "A7",
+                "A9",
+                "AH",
+                "AI",
+                "AJ",
+                "AK",
+                "AL",
+                "AM"
+            ],
+            "id": "A1",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "AB",
+                "AC",
+                "6H",
+                "6G",
+                "60",
+                "69"
+            ],
+            "userType": "Justificatif permis de conduire"
+        },
+        "A2": {
+            "creatorType": "Carte Mobilité Inclusion (CMI)",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "A0",
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6",
+                "A7",
+                "A8",
+                "A9",
+                "AA",
+                "AB",
+                "AC",
+                "AD",
+                "AE",
+                "AF",
+                "AG",
+                "AH",
+                "AI",
+                "AJ",
+                "AK",
+                "AL",
+                "AM",
+                "A3",
+                "A7"
+            ],
+            "forbidden": [
+                "A0",
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6",
+                "A7",
+                "A9",
+                "AB",
+                "AC",
+                "AJ",
+                "AK",
+                "AL",
+                "AM",
+                "6H",
+                "6G",
+                "60",
+                "69"
+            ],
+            "id": "A2",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "AH",
+                "AI"
+            ],
+            "userType": "Justificatif de santé"
+        },
+        "A3": {
+            "creatorType": "Macaron VTC (Véhicule de Transport avec Chauffeur)",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "A0",
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6",
+                "A7",
+                "A8",
+                "A9",
+                "AA",
+                "AB",
+                "AC",
+                "AD",
+                "AE",
+                "AF",
+                "AG",
+                "AH",
+                "AI",
+                "AJ",
+                "AK",
+                "AL",
+                "AM",
+                "A3",
+                "A7"
+            ],
+            "forbidden": [
+                "A0",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6",
+                "A7",
+                "A9",
+                "AB",
+                "AC",
+                "AH",
+                "AI",
+                "AL",
+                "AM",
+                "6H",
+                "6G",
+                "60",
+                "69"
+            ],
+            "id": "A3",
+            "isCreationDateMandatory": false,
+            "mandatory": [
+                "A1",
+                "AJ",
+                "AK"
+            ],
+            "userType": "Justificatif d’activité"
+        },
+        "A4": {
+            "creatorType": "Certificat de décès",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "90",
+                "91",
+                "92",
+                "93",
+                "94",
+                "95",
+                "96"
+            ],
+            "forbidden": [],
+            "id": "A4",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "70",
+                "71",
+                "72",
+                "73",
+                "77",
+                "78",
+                "7C",
+                "7D",
+                "7E",
+                "7G",
+                "7K"
+            ],
+            "userType": "Justificatif médical"
+        },
+        "A5": {
+            "creatorType": "Carte T3P (Transport Public Particulier de Personnes)",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "A0",
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6",
+                "A7",
+                "A8",
+                "A9",
+                "AA",
+                "AB",
+                "AC",
+                "AD",
+                "AE",
+                "AF",
+                "AG",
+                "AH",
+                "AI",
+                "AJ",
+                "AK",
+                "AL",
+                "AM",
+                "A3",
+                "A7"
+            ],
+            "forbidden": [
+                "A0",
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6",
+                "A7",
+                "A9",
+                "AB",
+                "AC",
+                "AH",
+                "AJ",
+                "AK",
+                "AM",
+                "6H",
+                "6G",
+                "60",
+                "69"
+            ],
+            "id": "A5",
+            "isCreationDateMandatory": false,
+            "mandatory": [
+                "AI",
+                "AL"
+            ],
+            "userType": "Justificatif d’activité"
+        },
+        "A6": {
+            "creatorType": "Carte Professionnelle Sapeur-Pompier",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "80",
+                "81",
+                "82",
+                "83",
+                "84"
+            ],
+            "forbidden": [],
+            "id": "A6",
+            "isCreationDateMandatory": false,
+            "mandatory": [
+                "80",
+                "81",
+                "82",
+                "83"
+            ],
+            "userType": "Justificatif d’activité"
+        },
+        "A7": {
+            "creatorType": "Certificat de qualité de l’air (V2)",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "A0",
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6",
+                "A7",
+                "A8",
+                "A9",
+                "AA",
+                "AB",
+                "AC",
+                "AD",
+                "AE",
+                "AF",
+                "AG",
+                "AH",
+                "AI",
+                "AJ",
+                "AK",
+                "AL",
+                "AM",
+                "A3",
+                "A7"
+            ],
+            "forbidden": [
+                "AB",
+                "AC",
+                "AH",
+                "AI",
+                "AJ",
+                "AK",
+                "AL",
+                "6H",
+                "6G",
+                "60",
+                "69"
+            ],
+            "id": "A7",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "A0",
+                "A1",
+                "A2",
+                "A4",
+                "A5",
+                "A6",
+                "A9",
+                "AM"
+            ],
+            "userType": "Justificatif écologique de véhicule"
+        },
+        "B0": {
+            "creatorType": "Diplôme",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "B0",
+                "B1",
+                "B2",
+                "B3",
+                "B4",
+                "B5",
+                "B6",
+                "B7",
+                "B8",
+                "B9",
+                "BA",
+                "BB",
+                "BC",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BK",
+                "BB"
+            ],
+            "forbidden": [
+                "BG",
+                "BK"
+            ],
+            "id": "B0",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "B6",
+                "B7",
+                "B9",
+                "B0",
+                "B1",
+                "B2",
+                "BD",
+                "BH",
+                "BI",
+                "BJ"
+            ],
+            "userType": "Justificatif académique"
+        },
+        "B1": {
+            "creatorType": "Attestation de Versement de la Contribution à la Vie Etudiante",
+            "facultative": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "0A",
+                "0B",
+                "0C",
+                "B0",
+                "B1",
+                "B2",
+                "B3",
+                "B4",
+                "B5",
+                "B6",
+                "B7",
+                "B8",
+                "B9",
+                "BA",
+                "BB",
+                "BC",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BK",
+                "BB"
+            ],
+            "forbidden": [
+                "B6",
+                "B9",
+                "B1",
+                "BD",
+                "BH",
+                "BI",
+                "BJ"
+            ],
+            "id": "B1",
+            "isCreationDateMandatory": true,
+            "mandatory": [
+                "B7",
+                "B0",
+                "B2",
+                "BB",
+                "BK"
+            ],
+            "userType": "Justificatif académique"
+        }
+    },
+    "testDataList": [
+        {
+            "creationDate": "20 novembre 2017",
+            "creationDateHex": "1985",
+            "documentTypeId": "12",
+            "documentTypeName": "Acte d’huissier",
+            "mandatoryData": "90 MAITRE/SPECIMEN/NATACHA \n92 RAISON SOCIALE DE TEST \n94 SAISIE CONSERVATOIRE DE CREANCES \n96 21112017 (ce qui correspond au 21 novembre 2017)",
+            "message": "DC04FR000001198519D31201FR90MAITRE/SPECIMEN/NATACHA<GS>92RAISON SOCIALE DE TEST<GS>94SAISIE CONSERVATOIRE DE CREANCES<GS>962111201791MME/BERTHIER/CORINNE<GS>93RAISON SOCIALE DU TIERS CONCERNE<GS>951896547853AB<GS>0CNB2WS43TNFSXELLKOVZXI2LDMUXGM4RPGE4DSNRVGQ3TQNJTIFBA<GS><US>OOXND3NRRGDZKBYZ6VDMHSM7WHJ323ICLGTSEELJ74OW3E4GGFYI3GX6IXCN4HF45JWYZKHHU7GXTBMCSHOSU5GOUHJYN4PIH6VAA2Q",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "73AED1EDB18987950719F546C3C99FB1D3BD6D0259A7221169FF1D6D938631708D9AFE45C4DE1CBCEA6D8CA8E7A7CD79858291DD2A74CEA1D386F1E83FAA006A",
+            "signatureDate": "3",
+            "signatureDateHex": "7",
+            "signedData": "DC04FR000001198519D31201FR90MAITRE/SPECIMEN/NATACHA<GS>92RAISON SOCIALE DE TEST<GS>94SAISIE CONSERVATOIRE DE CREANCES<GS>9621112017<GS>91MME/BERTHIER/CORINNE<GS>93RAISON SOCIALE DU TIERS CONCERNE<GS>951896547853AB<GS>0CNB2WS43TNFSXELLKOVZXI2LDMUXGM4RPGE4DSNRVGQ3TQNJTIFBA<GS> "
+        },
+        {
+            "creationDate": "25 juin 2018",
+            "creationDateHex": "1A5E",
+            "documentTypeId": "B1",
+            "documentTypeName": "Attestation de Versement de la Contribution à la Vie Etudiante",
+            "mandatoryData": "BK 18-ROSWFTHR-35 \nB0 CORINNE/NATACHA \nB2 BERTHIER \nB3 <vide> \nB7 12071973 (ce qui correspond au 12 juillet 1973) \nBB 9654321785T",
+            "message": "DC04FR0000011A5E1A5EB101FRBK18-ROSWFTHR-35B0CORINNE/NATACHA<GS>B2BERTHIER<GS>B3<GS>B712071973BB9654321785T<GS><US>ZXH2BBDCISCPWX72YIFSMANO662O2IS6PPPIIUMGVO3ECEML7RU6QIE5CKZK3A5X6SFT3HBPICLUE6RKLYA4M7ATOXSG2HIF5CE35UA",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "CDCFA084624484FB5FFAC20B2601AEF7B4ED225E7BDE845186ABB641118BFC69E8209D12B2AD83B7F48B3D9C2F4097427A2A5E01C67C1375E46D1D05E889BED015.2.2.FormatV3",
+            "signatureDate": "D",
+            "signatureDateHex": "C",
+            "signedData": "DC04FR0000011A5E1A5EB101FRBK18-ROSWFTHR-35B0CORINNE/NATACHA<GS>B2BERTHIER<GS>B3<GS>B712071973BB9654321785T<GS> "
+        },
+        {
+            "creationDate": "15 octobre 2012",
+            "creationDateHex": "123F",
+            "documentTypeId": "00",
+            "documentTypeName": "Justificatif de domicile",
+            "mandatoryData": "10  MLLE/SAMPLE/ANGELA \n20 <vide> \n21 BAT 2 ETG 3 \n22 7 PLACE DES SPECIMENS \n23 <vide> \n24 57000 \n25 METZ \n26 FR",
+            "message": "DC03FR000001123F1636000126FR245700010MLLE/SAMPLE/ANGELA<GS>20<GS>21BAT 2 ETG 3<GS>227 PLACE DES SPECIMENS<GS>23<GS>25METZ<GS><US>3HJIYP3OAJ4LIZNQXCTZMNQPTT5C2XICTEF4UGJ3NDE2CWM7HJOEEK4ACIY4CZOO5ZOFG35APDZMZQFEAEBWRZTW4CBPG35JE2FJ4EY",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "D9D28C3F6E0278B465B0B8A796360F9CFA2D5D02990BCA193B68C9A1599F3A5C422B801231C165CEEE5C536FA078F2CCC0A4010368E676E082F36FA9268A9E13",
+            "signatureDate": "9",
+            "signatureDateHex": "D",
+            "signedData": "DC03FR000001123F1636000126FR245700010MLLE/SAMPLE/ANGELA<GS>20<GS>21BAT 2 ETG 3<GS>227 PLACE DES SPECIMENS<GS>23<GS>25METZ<GS>� "
+        },
+        {
+            "creationDate": "15 octobre 2012",
+            "creationDateHex": "123F",
+            "documentTypeId": "01",
+            "documentTypeName": "Facture",
+            "mandatoryData": "10 MME/SPECIMEN/NATACHA \n22 145 AVENUE DES SPECIMENS \n24 75000 \n26 FR",
+            "message": "DC03FR000001123F1636010126FR247500010MME/SPECIMEN/NATACHA<GS>22145 AVENUE DES SPECIMENS<GS><US>FEDMPW5SO5BNZFYP7FIQUYZFV5H3OF6QERDMOBN7BZ4CC4KVJ4XWUH6EW3CSWILAGLN4XQE6AKHX6RNOI3OXVW6X3IKJASZGL62FBUQ",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "2906C7DBB27742DC970FF9510A6325AF4FB717D02446C705BF0E782171554F2F6A1FC4B6C52B216032DBCBC09E028F7F45AE46DD7ADBD7DA14904B265FB450D2",
+            "signatureDate": "9",
+            "signatureDateHex": "2",
+            "signedData": "DC03FR000001123F1636010126FR247500010MME/SPECIMEN/NATACHA<GS>22145 AVENUE DES SPECIMENS<GS> "
+        },
+        {
+            "creationDate": "15 octobre 2012",
+            "creationDateHex": "123F",
+            "documentTypeId": "02",
+            "documentTypeName": "Avis de taxe d’habitation",
+            "mandatoryData": "10 M/ECHANTILLON/ARTHUR \n22 42 SQUARE DES ECHANTILLONS \n24 44000 \n25 NANTES \n26 FR",
+            "message": "DC03FR000001123F1636020126FR244400010M/ECHANTILLON/ARTHUR<GS>2242 SQUARE DES ECHANTILLONS<GS>25NANTES<GS><US>UBFF4NY7MIXQVUZYMRDRGXBTVWIVMCNP76TN7SA24QUJ4AAHG4WTLA2QZ5TSC54F2OQRMWOAKSHLXJLNHXH4GJPBHBWXBO3PMSDOVZI",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "A04A5E371F622F0AD3386447135C33AD915609AFFFA6DFC81AE4289E0007372D358350CF67217785D3A11659C0548EBBA56D3DCFC325E1386D70BB6F6486EAE5",
+            "signatureDate": "0",
+            "signatureDateHex": "A",
+            "signedData": "DC03FR000001123F1636020126FR244400010M/ECHANTILLON/ARTHUR<GS>2242 SQUARE DES ECHANTILLONS<GS>25NANTES<GS> "
+        },
+        {
+            "creationDate": "Pas de date d’émission",
+            "creationDateHex": "FFFF",
+            "documentTypeId": "03",
+            "documentTypeName": "Relevé d’identité bancaire",
+            "mandatoryData": "30 M EXEMPLE HENRY ET MME SPECIMEN NATACHA \n31 FR7030002005500000157845Z02 \n32 CRLYFRPP",
+            "message": "DC03FR000001FFFF1636030130M EXEMPLE HENRY ET MME SPECIMEN NATACHA<GS>31FR7030002005500000157845Z02<GS>32CRLYFRPP<GS><US>EQOSLUFV626SM4K7PTNO3PDT7IM736GLXXBJALK4MCSWJM3QIWQ7ASSCV5VNPS5HD2QZPVTCE76W5WG5MFFFJZWWOIDDLNVT2JX3HLI",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "241D25D0B5F6BD26715F7CDAEDBC73FA19FDF8CBBDC2902D5C60A564B37045A1F04A42AF6AD7CBA71EA197D66227FD6ED8DD614A54E6D6720635B6B3D26FB3AD",
+            "signatureDate": "4",
+            "signatureDateHex": "2",
+            "signedData": "DC03FR000001FFFF1636030130M EXEMPLE HENRY ET MME SPECIMEN NATACHA<GS>31FR7030002005500000157845Z02<GS>32CRLYFRPP<GS> "
+        },
+        {
+            "creationDate": "18 octobre 2012",
+            "creationDateHex": "1242",
+            "documentTypeId": "04",
+            "documentTypeName": "Avis d’impôt sur le revenu",
+            "mandatoryData": "10 M/IMPOSABLE/FRANCOIS \n40 1234567890123 \n41 1042876",
+            "message": "DC03FR00000112421636040110M/IMPOSABLE/FRANCOIS<GS>401234567890123411042876<GS><US>AB2MS643NQNY7X5BMSHCW7FJ5DQ2LCOVZ6OPVXUO5NATQOBBQKE753DIFQOV75WZNXBW2UEHL23Q3QOXGOXJRGOSK35SLLCM3BGJSLY",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "0074C97B9B6C1B8FDFA1648E2B7CA9E8E1A589D5CF9CFADE8EEB413838218289FEEC682C1D5FF6D96DC36D50875EB70DC1D733AE9899D256FB25AC4CD84C992F",
+            "signatureDate": "0",
+            "signatureDateHex": "0",
+            "signedData": "DC03FR00000112421636040110M/IMPOSABLE/FRANCOIS<GS>401234567890123411042876<GS> "
+        },
+        {
+            "creationDate": "Pas de date d’émission",
+            "creationDateHex": "FFFF",
+            "documentTypeId": "05",
+            "documentTypeName": "Relevé d’Identité SEPAmail",
+            "mandatoryData": "08 1240 (ce qui correspond à la date du 16 octobre 2012) \n30 M/EXEMPLE/HENRY \n35 QX7030002005500000157845Z02",
+            "message": "DC03FR000001FFFF1636050108124030M/EXEMPLE/HENRY<GS>35QX7030002005500000157845Z02<GS><US>WOV6U4QA5KPKAEKC6G6KLVWQMW6IVWQ5NCHVOHRDH5AJUP2MAXR5VHYBOH74GGG7IHMYJISLHWOWEJNZVBUBXVMM27WQZ7G2EOJBZ3Y",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "B3ABEA7200EA9EA01142F1BCA5D6D065BC8ADA1D688F571E233F409A3F4C05E3DA9F0171FFC318DF41D984A24B3D9D6225B9A8681BD58CD7ED0CFCDA23921CEF",
+            "signatureDate": "3",
+            "signatureDateHex": "B",
+            "signedData": "DC03FR000001FFFF1636050108124030M/EXEMPLE/HENRY<GS>35QX7030002005500000157845Z02<GS> "
+        },
+        {
+            "creationDate": "2 novembre 2012",
+            "creationDateHex": "1251",
+            "documentTypeId": "06",
+            "documentTypeName": "Bulletin de salaire",
+            "mandatoryData": "10 M/EXEMPLE/HENRY \n50 00000000000000 \n53 1231 (ce qui correspond à la date du 1er octobre 2012) \n54 124F (ce qui correspond à la date du 31 octobre 2012) \n55 15032012 (ce qui correspond au 15 mars 2012) \n58 1319,24 \n59 9894,3",
+            "message": "DC03FR00000112511636060110M/EXEMPLE/HENRY<GS>5000000000000000510157,55200934,553123154124F5515032012581319,24<GS>599894,3<GS><US>FCJYSMOD7KDZON5QGBKV355SCX2MDFOFU743UBYK2F3PR6D7EL6WRUUIRU5SQKYAY6OOO5NTPIDWJXSCV4X7VXBUHSUH2HVKY5GVXII",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "28938931C3FA879737B030555DF7B215F4C195C5A7F9BA070AD176F8F87F22FD68D2888D3B282B00C79CE775B37A0764DE42AF2FFADC343CA87D1EAAC74D5BA1",
+            "signatureDate": "8",
+            "signatureDateHex": "2",
+            "signedData": "DC03FR00000112511636060110M/EXEMPLE/HENRY<GS>5000000000000000510157,55200934,553123154124F5515032012581319,24<GS>599894,3<GS> "
+        },
+        {
+            "creationDate": "7 juin 2006",
+            "creationDateHex": "092D",
+            "documentTypeId": "07",
+            "documentTypeName": "Titre d’identité",
+            "mandatoryData": "60 NATACHA \n62 SPECIMEN \n65 P  \n66 07CD12304 \n67 FR (France) \n68 F (Féminin) \n6C FR (France)",
+            "message": "DC03FR000001092D1636070160NATACHA<GS>62SPECIMEN<GS>65P 6607CD12304<GS>67FR68F6CFR<US>EYLJXYH5R3HYO5YWTMELK7P277KKOK5TTNB26S6UAPDH2KJGT37YXNDEZTGEK2LX3OSRNAXOP4UHFWHNTOU6LTOSBMX2EBCQ36UZ4FA",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "26169BE0FD8ECF8777169B08B57DFAFFD4A72BB39B43AF4BD403C67D29269EFF8BB464CCCC456977DBA51682EE7F2872D8ED9BA9E5CDD20B2FA20450DFA99E14",
+            "signatureDate": "6",
+            "signatureDateHex": "2",
+            "signedData": "DC03FR000001092D1636070160NATACHA<GS>62SPECIMEN<GS>65P 6607CD12304<GS>67FR68F6CFR "
+        },
+        {
+            "creationDate": "7 juin 2006",
+            "creationDateHex": "092D",
+            "documentTypeId": "08",
+            "documentTypeName": "MRZ",
+            "mandatoryData": "6F P<FRASPECIMEN<<NATACHA<<<<<<<<<<<<<<<<<<<<<<07CD123044FRA7307122F1603062<<<<<<<<<<<<<<04",
+            "message": "DC03FR000001092D163608016FP FRASPECIMEN NATACHA 07CD123044FRA7307122F1603062 04<GS><US>TYXD5GHXKAQ52NCB4IZGXJFYIYTX7UR5SIG7DPDJOS3KOW67ESGECFXFTZFE3MO263SYM7KY2GTNOR4Z5RROT7XDCOCTW3I7OREONIY",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "9E2E3E98F75021DD3441E2326BA4B846277FD23D920DF1BC6974B6A75BDF248C4116E59E4A4DB1DAF6E5867D58D1A6D74799EC62E9FEE313853B6D1F7448E6A3",
+            "signatureDate": "E",
+            "signatureDateHex": "9",
+            "signedData": "DC03FR000001092D163608016FP FRASPECIMEN NATACHA 07CD123044FRA7307122F1603062 04<GS> "
+        },
+        {
+            "creationDate": "15 mars 2012",
+            "creationDateHex": "1169",
+            "documentTypeId": "10",
+            "documentTypeName": "Contrat de travail",
+            "mandatoryData": "50 00000000000000 \n57 15032012 (ce qui correspond à la date du 15 mars 2012) \n5A 1517,42 \n61 HENRY \n62 EXEMPLE",
+            "message": "DC03FR000001116916361001500000000000000057150320125A1517,42<GS>61HENRY<GS>62EXEMPLE<GS><US>7OFGWXQL4ZVW4IXEHXJX7ZB5HASS6N5QLIJB3YNAGJMBTC22F2ZSGDKF32HTE6GAAZ4US4K62TX2I5BZED4SXLDHV7HFEVTDCPYXLQQ",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "FB8A6B5E0BE66B6E22E43DD37FE43D38252F37B05A121DE1A03258198B5A2EB3230D45DE8F3278C0067949715ED4EFA4743920F92BAC67AFCE52566313F175C2",
+            "signatureDate": "B",
+            "signatureDateHex": "F",
+            "signedData": "DC03FR000001116916361001500000000000000057150320125A1517,42<GS>61HENRY<GS>62EXEMPLE<GS> "
+        },
+        {
+            "creationDate": "1er septembre 2012",
+            "creationDateHex": "1213",
+            "documentTypeId": "11",
+            "documentTypeName": "Relevé de compte",
+            "mandatoryData": "30 M EXEMPLE HENRY ET MME SPECIMEN NATACHA \n31 FR7030002005500000157845Z02 \n32 CRLYFRPP \n36 1213 (ce qui correspond à la date du 1er septembre 2012) \n37 1230 (ce qui correspond à la date du 30 septembre 2012) \n38 -234,78",
+            "message": "DC03FR00000112131636110130M EXEMPLE HENRY ET MME SPECIMEN NATACHA<GS>31FR7030002005500000157845Z02<GS>32CRLYFRPP<GS>36121337123038-234,78<GS><US>27SBQHRWLDWFSHQOEBCTVIZMZDHL4UF44K2R7RFSDCAGQIOAB243LPCY66ORXDN7CWHMSV6YKJE5MXN5VGEXSOSEHF2MXUOTQLNE5ZA",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "D7E4181E3658EC591E0E20453AA32CC8CEBE50BCE2B51FC4B218806821C00EB9B5BC58F79D1B8DBF158EC957D85249D65DBDA989793A443974CBD1D382DA4EE4",
+            "signatureDate": "7",
+            "signatureDateHex": "D",
+            "signedData": "DC03FR00000112131636110130M EXEMPLE HENRY ET MME SPECIMEN NATACHA<GS>31FR7030002005500000157845Z02<GS>32CRLYFRPP<GS>36121337123038-234,78<GS> "
+        },
+        {
+            "creationDate": "1er septembre 2015",
+            "creationDateHex": "165A",
+            "documentTypeId": "A0",
+            "documentTypeName": "Certificat de qualité de l’air",
+            "mandatoryData": "A0 FR (ce qui correspond à France) \nA1 BH-999-VX \nA2 RENAULT \nA3 MEGANE SCENIC \nA4 1M8GDM9AXKP042788 \nA5 M1 \nA6 GO \nA7 082 (ce qui correspond à 130g/km) \nA9 050",
+            "message": "DC03FR000001165A164DA001A0FRA1BH-999-VX<GS>A2RENAULT<GS>A3MEGANE SCENIC<GS>A5M1 A6GOA9050A7082A41M8GDM9AXKP042788A82008EURO5<GS>AA01011999<US>N53YAWRADVZ5HZK7G3DBG23TJZONUYLGL23XRHVHT2JQXA6GEV2FBDOK6KVJ776RREGSD3WKE36MX2MP5A5AKZ37GIRI4N2FA5E6QUI",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "6F77805A201D73D3E55F36C6136B734E5CDA61665EB7789EA79E930B83C62574508DCAF2AA9FFFD1890D21EECA26FCCBE98FE83A05677F32228E37450749E851",
+            "signatureDate": "F",
+            "signatureDateHex": "6",
+            "signedData": "DC03FR000001165A164DA001A0FRA1BH-999-VX<GS>A2RENAULT<GS>A3MEGANE SCENIC<GS>A5M1 A6GOA9050A7082A41M8GDM9AXKP042788A82008EURO5<GS>AA01011999 "
+        },
+        {
+            "creationDate": "27 avril 2016",
+            "creationDateHex": "1749",
+            "documentTypeId": "A1",
+            "documentTypeName": "Courrier Permis à points",
+            "mandatoryData": "AB 48M \nAC 156985632 \n6H MME \n6G SPECIMEN \n60 NATACHA \n69 25111973",
+            "message": "DC03FR00000117491766A101AB48M<GS>AC156985632<GS>6HMME<GS>6GSPECIMEN<GS>60NATACHA<GS>69251119736ATOULON<GS>AD16D4AE0132AF4AG8<US>5EYSLG4NKU5EFORGEHGGSKCRRD3JQDFLIQYWYQB3J4JHE5JGGB2E5LBJKNWGOMHSCFZI7OZ6CLRF3ZHCPB73ZJD2GBS75GOCYZYRIKI",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "E931259B8D553A42BA2621CC69285188F6980CAB44316C403B4F1272752630744EAC29536C6730F211728FBB3E12E25DE4E2787FBCA47A3065FE99C2C6711429",
+            "signatureDate": "9",
+            "signatureDateHex": "E",
+            "signedData": "DC03FR00000117491766A101AB48M<GS>AC156985632<GS>6HMME<GS>6GSPECIMEN<GS>60NATACHA<GS>69251119736ATOULON<GS>AD16D4AE0132AF4AG8 "
+        },
+        {
+            "creationDate": "1er décembre 2016",
+            "creationDateHex": "1823",
+            "documentTypeId": "A2",
+            "documentTypeName": "Carte Mobilité Inclusion – code A2",
+            "mandatoryData": "AH ABC1234567890DEF \nAI 30112019 (ce qui correspond à la date du 30 novembre 2019)",
+            "message": "DC03FR0000011823180BA201AHABC1234567890DEF<GS>AI30112019<US>GS6BVV7JXCKKTTYIX2WH5IX4IXQCH3TKMEKYQ3LTXQGCH4JFTX566VJ5IKBTHGKQ6QVHQQF6COXUPAIADDWFNDEJSEHFJIX77K6IVXQ",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "34BC1AD7E9B894A9CF08BEAC7EA2FC45E023EE6A6115886D73BC0C23F1259DFBEF553D4283339950F42A7840BE13AF47810018EC568C89910E54A2FFFABC8ADE",
+            "signatureDate": "4",
+            "signatureDateHex": "3",
+            "signedData": "DC03FR0000011823180BA201AHABC1234567890DEF<GS>AI30112019 "
+        },
+        {
+            "creationDate": "Pas de date d’émission",
+            "creationDateHex": "FFFF",
+            "documentTypeId": "A3",
+            "documentTypeName": "Macaron VTC",
+            "mandatoryData": "A1 AA-555-AA \nAJ EVTC123456789 \nAK 0000001",
+            "message": "DC03FR000001FFFF180EA301AJEVTC123456789AK0000001A1AA-555-AA<GS><US>VLBRF7PWKEX5BCCMTKS23PVETBPCOWBFLWPR4ONNMY6UBMMUXZFBKVOR3XHDNKW7F5IABD5QTZY2FTUBW5JNAJ5LSQHJDPTRGWPTTWQ",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "AAC312FDF6512FD0884C9AA5ADBEA4985E2758255D9F1E39AD663D40B194BE4A1555D1DDCE36AADF2F50008FB09E71A2CE81B752D027AB940E91BE71359F39DA",
+            "signatureDate": "A",
+            "signatureDateHex": "A",
+            "signedData": "DC03FR000001FFFF180EA301AJEVTC123456789AK0000001A1AA-555-AA<GS> "
+        },
+        {
+            "creationDate": "20 avril 2017",
+            "creationDateHex": "18AF",
+            "documentTypeId": "A4",
+            "documentTypeName": "Certificat de décès",
+            "mandatoryData": "71 200420170000 (ce qui correspond au 20 avril 2017 à 0h00m) \n72 SPECIMEN \n73 NATACHA/CORINNE \n77 TOULON \n78 83000 \n7C 0 (ce qui correspond à Faux) \n7D H (ce qui correspond à Mise en bière dans un cercueil hermétique) \n7E 0 (ce qui correspond à Faux) \n7G 0 (ce qui correspond à Faux) \n7K ER20131350001 \n7M DR SAMPLE TOTO",
+            "message": "DC03FR00000118AF18EFA4017120042017000072SPECIMEN<GS>73NATACHA/CORINNE<GS>74BERTHIER<GS>751207197377TOULON<GS>78830007980 AVENUE DES ECHANTILLONS<GS>7BTOULON<GS>7A830007C07DH7E07F17G07I17J07KER201313500017MDR SAMPLE TOTO<GS>7NMARSEILLE<GS>76F7O07LCODEFINES7H30<US>VXEWJSI34LKDJ64OPLYUVNDYKZ3ZRFDB3WA2MTK4J3HP2336WWMTISDQLYVD4NY3QG6USENRAY3CBWR6LI6743WB66MPYNOEAYAEGGY",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "ADC964C91BE2D434FB8E7AF14AB4785677989461DD81A64D5C4ECEFD6F7EB5993448705E2A3E371B81BD4911B1063620DA3E5A3DFE6EC1F798FC35C40600431B",
+            "signatureDate": "D",
+            "signatureDateHex": "A",
+            "signedData": "DC03FR00000118AF18EFA4017120042017000072SPECIMEN<GS>73NATACHA/CORINNE<GS>74BERTHIER<GS>751207197377TOULON<GS>78830007980 AVENUE DES ECHANTILLONS<GS>7BTOULON<GS>7A830007C07DH7E07F17G07I17J07KER201313500017MDR SAMPLE TOTO<GS>7NMARSEILLE<GS>76F7O07LCODEFINES7H30 "
+        },
+        {
+            "creationDate": "Pas de date d’émission",
+            "creationDateHex": "FFFF",
+            "documentTypeId": "A5",
+            "documentTypeName": "Carte T3P",
+            "mandatoryData": "AL 12345678901 \nAI 30112019 (ce qui correspond au 30 novembre 2019)",
+            "message": "DC03FR000001FFFF18EAA501AL12345678901AI30112019<US>UBVQ7MMXTQ5FE3LZPIAZY6HZNGQJ3GLTKU6T4NJ5PGSKFECBUQIAPEWMZYIIEHZSQBDKG2QCJIXUONTMFXYMYYTTITJAOCVJQ7EOARY",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "A06B0FB1979C3A526D797A019C78F969A09D9973553D3E353D79A4A29041A4100792CCCE10821F328046A36A024A2F47366C2DF0CC627344D2070AA987C8E047",
+            "signatureDate": "0",
+            "signatureDateHex": "A",
+            "signedData": "DC03FR000001FFFF18EAA501AL12345678901AI30112019 "
+        },
+        {
+            "creationDate": "Pas de date d’émission",
+            "creationDateHex": "FFFF",
+            "documentTypeId": "A6",
+            "documentTypeName": "Carte Professionnelle Sapeur-Pompier",
+            "mandatoryData": "80 SPECIMEN \n81 NATACHA/CORINNE \n82 1234567890 \n83 SDIS SPECIMEN",
+            "message": "DC03FR000001FFFF190EA60180SPECIMEN<GS>81NATACHA/CORINNE<GS>821234567890<GS>83SDIS SPECIMEN<GS><US>BMRTHJFTUGQFU62PGLZMFAXASLJLANOZ64JCKZWOXJNEEGE7AY6TWS5CLBUGDFZ7XBZWF5Z72WJ2NSC3R7BKS3PSZ57RPV7JXYFQMMI",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "0B2333A4B3A1A05A7B4F32F2C282E092D2B035D9F7122566CEBA5A42189F063D3B4BA2586861973FB87362F73FD593A6C85B8FC2A96DF2CF7F17D7E9BE0B0631",
+            "signatureDate": "B",
+            "signatureDateHex": "0",
+            "signedData": "DC03FR000001FFFF190EA60180SPECIMEN<GS>81NATACHA/CORINNE<GS>821234567890<GS>83SDIS SPECIMEN<GS> "
+        },
+        {
+            "creationDate": "1er octobre 2017",
+            "creationDateHex": "1953",
+            "documentTypeId": "A7",
+            "documentTypeName": "Certificat de Qualité de l’Air (V2)",
+            "mandatoryData": "A0 FR (ce qui correspond à France) \nA1 BH-999-VX \nA2 RENAULT \nA4 1M8GDM9AXKP042788 \nA5 M1 \nA6 GO \nA9 150 \nAM FAP",
+            "message": "DC03FR00000119531938A701A0FRA1BH-999-VX<GS>A2RENAULT<GS>A41M8GDM9AXKP042788A5M1 A6GOA9150AMFAP<GS>A7082A3MEGANE SCENIC<GS>A82008EURO5<GS>AA01011999<US>J7QUGL3FU6GC2JSWO2QAOTJK7BML4VBLVBPSAIF5FAD4ZBJAZ33E3JD5L6ECK5I3BMJGIZ3XUTNPI4RUNX3XIYTPV26NC6GXWHOVSVA",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "4FE1432F65A78C2D265676A0074D2AF858BE542BA85F2020BD2807CC8520CEF64DA47D5F8825751B0B12646777A4DAF472346DF774626FAEBCD178D7B1DD5954",
+            "signatureDate": "F",
+            "signatureDateHex": "4",
+            "signedData": "DC03FR00000119531938A701A0FRA1BH-999-VX<GS>A2RENAULT<GS>A41M8GDM9AXKP042788A5M1 A6GOA9150AMFAP<GS>A7082A3MEGANE SCENIC<GS>A82008EURO5<GS>AA01011999 "
+        },
+        {
+            "creationDate": "14 septembre 2012",
+            "creationDateHex": "1220",
+            "documentTypeId": "B0",
+            "documentTypeName": "Diplôme",
+            "mandatoryData": "B1 NATACHA \nB2 SPECIMEN \nB6 F \nB7 12071973 \nB9 FR (ce qui correspond à France) \nBD 7 \nBG MA (ce qui correspond à Master) \nBH SCIENCES TECHNOLOGIES SANTE \nBI INFORMATIQUE \nBJ INFORMATIQUE DU LOGICIEL",
+            "message": "DC03FR000001122016A2B001B1NATACHA<GS>B2SPECIMEN<GS>B6FB712071973B9FRBD7BGMABHSCIENCES TECHNOLOGIES SANTE<GS>BIINFORMATIQUE<GS>BJINFORMATIQUE DU LOGICIEL<GS>B8TOULON<GS>BB0600010040B<GS>BC9840328<GS>BF7DF<US>FDRZFG3UCKGNVMMH3FHTVPDC74DVXSQLE4TQXRMTEHEPUD4RE5P5PFPDT2ZGL7G5RMZKLMGTQIUQRQPXO7ES6JH6JR4KDQSTTQEHX4Q",
+            "perimeter": "Périmètre ANTS",
+            "perimeterId": "01",
+            "signature": "28E3929B74128CDAB187D94F3ABC62FF075BCA0B27270BC59321C8FA0F91275FD795E39EB265FCDD8B32A5B0D3822908C1F777C92F24FE4C78A1C2539C087BF2",
+            "signatureDate": "8",
+            "signatureDateHex": "2",
+            "signedData": "DC03FR000001122016A2B001B1NATACHA<GS>B2SPECIMEN<GS>B6FB712071973B9FRBD7BGMABHSCIENCES TECHNOLOGIES SANTE<GS>BIINFORMATIQUE<GS>BJINFORMATIQUE DU LOGICIEL<GS>B8TOULON<GS>BB0600010040B<GS>BC9840328<GS>BF7DF "
+        }
+    ]
+}

@@ -1,0 +1,952 @@
+[
+    {
+        "creationDate": "20 novembre 2017",
+        "creationDateHex": "1985",
+        "documentTypeId": "12",
+        "documentTypeName": "Acte d’huissier",
+        "facultativeData": [
+            {
+                "key": "91",
+                "value": "MME/BERTHIER/CORINNE"
+            },
+            {
+                "key": "93",
+                "value": "RAISON SOCIALE DU TIERS CONCERNE"
+            },
+            {
+                "key": "95",
+                "value": "1896547853AB"
+            },
+            {
+                "key": "0C",
+                "value": "NB2WS43TNFSXELLKOVZXI2LDMUXGM4RPGE4DSNRVGQ3TQNJTIFBA"
+            }
+        ],
+        "mandatoryData": [
+            {
+                "key": "90",
+                "value": "MAITRE/SPECIMEN/NATACHA"
+            },
+            {
+                "key": "92",
+                "value": "RAISON SOCIALE DE TEST"
+            },
+            {
+                "key": "94",
+                "value": "SAISIE CONSERVATOIRE DE CREANCES"
+            },
+            {
+                "key": "96",
+                "value": "21112017 (ce qui correspond au 21 novembre 2017)"
+            }
+        ],
+        "message": "DC04FR000001198519D31201FR90MAITRE/SPECIMEN/NATACHA<GS>92RAISON SOCIALE DE TEST<GS>94SAISIE CONSERVATOIRE DE CREANCES<GS>962111201791MME/BERTHIER/CORINNE<GS>93RAISON SOCIALE DU TIERS CONCERNE<GS>951896547853AB<GS>0CNB2WS43TNFSXELLKOVZXI2LDMUXGM4RPGE4DSNRVGQ3TQNJTIFBA<GS><US>OOXND3NRRGDZKBYZ6VDMHSM7WHJ323ICLGTSEELJ74OW3E4GGFYI3GX6IXCN4HF45JWYZKHHU7GXTBMCSHOSU5GOUHJYN4PIH6VAA2Q",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "73AED1EDB18987950719F546C3C99FB1D3BD6D0259A7221169FF1D6D938631708D9AFE45C4DE1CBCEA6D8CA8E7A7CD79858291DD2A74CEA1D386F1E83FAA006A",
+        "signatureDate": "6 février 2018",
+        "signatureDateHex": "19D3",
+        "signedData": "DC04FR000001198519D31201FR90MAITRE/SPECIMEN/NATACHA<GS>92RAISON SOCIALE DE TEST<GS>94SAISIE CONSERVATOIRE DE CREANCES<GS>9621112017<GS>91MME/BERTHIER/CORINNE<GS>93RAISON SOCIALE DU TIERS CONCERNE<GS>951896547853AB<GS>0CNB2WS43TNFSXELLKOVZXI2LDMUXGM4RPGE4DSNRVGQ3TQNJTIFBA<GS>"
+    },
+    {
+        "creationDate": "25 juin 2018",
+        "creationDateHex": "1A5E",
+        "documentTypeId": "B1",
+        "documentTypeName": "Attestation de Versement de la Contribution à la Vie Etudiante",
+        "mandatoryData": [
+            {
+                "key": "BK",
+                "value": "18-ROSWFTHR-35"
+            },
+            {
+                "key": "B0",
+                "value": "CORINNE/NATACHA"
+            },
+            {
+                "key": "B2",
+                "value": "BERTHIER"
+            },
+            {
+                "key": "B3",
+                "value": "<vide>"
+            },
+            {
+                "key": "B7",
+                "value": "12071973 (ce qui correspond au 12 juillet 1973)"
+            },
+            {
+                "key": "BB",
+                "value": "9654321785T"
+            }
+        ],
+        "message": "DC04FR0000011A5E1A5EB101FRBK18-ROSWFTHR-35B0CORINNE/NATACHA<GS>B2BERTHIER<GS>B3<GS>B712071973BB9654321785T<GS><US>ZXH2BBDCISCPWX72YIFSMANO662O2IS6PPPIIUMGVO3ECEML7RU6QIE5CKZK3A5X6SFT3HBPICLUE6RKLYA4M7ATOXSG2HIF5CE35UA",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "CDCFA084624484FB5FFAC20B2601AEF7B4ED225E7BDE845186ABB641118BFC69E8209D12B2AD83B7F48B3D9C2F4097427A2A5E01C67C1375E46D1D05E889BED015.2.2.FormatV3",
+        "signatureDate": "25 juin 2018",
+        "signatureDateHex": "1A5E",
+        "signedData": "DC04FR0000011A5E1A5EB101FRBK18-ROSWFTHR-35B0CORINNE/NATACHA<GS>B2BERTHIER<GS>B3<GS>B712071973BB9654321785T<GS>"
+    },
+    {
+        "creationDate": "15 octobre 2012",
+        "creationDateHex": "123F",
+        "documentTypeId": "00",
+        "documentTypeName": "Justificatif de domicile",
+        "mandatoryData": [
+            {
+                "key": "10",
+                "value": " MLLE/SAMPLE/ANGELA"
+            },
+            {
+                "key": "20",
+                "value": "<vide>"
+            },
+            {
+                "key": "21",
+                "value": "BAT 2 ETG 3"
+            },
+            {
+                "key": "22",
+                "value": "7 PLACE DES SPECIMENS"
+            },
+            {
+                "key": "23",
+                "value": "<vide>"
+            },
+            {
+                "key": "24",
+                "value": "57000"
+            },
+            {
+                "key": "25",
+                "value": "METZ"
+            },
+            {
+                "key": "26",
+                "value": "FR"
+            }
+        ],
+        "message": "DC03FR000001123F1636000126FR245700010MLLE/SAMPLE/ANGELA<GS>20<GS>21BAT 2 ETG 3<GS>227 PLACE DES SPECIMENS<GS>23<GS>25METZ<GS><US>3HJIYP3OAJ4LIZNQXCTZMNQPTT5C2XICTEF4UGJ3NDE2CWM7HJOEEK4ACIY4CZOO5ZOFG35APDZMZQFEAEBWRZTW4CBPG35JE2FJ4EY",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "D9D28C3F6E0278B465B0B8A796360F9CFA2D5D02990BCA193B68C9A1599F3A5C422B801231C165CEEE5C536FA078F2CCC0A4010368E676E082F36FA9268A9E13",
+        "signatureDate": "27 juillet 2015",
+        "signatureDateHex": "1636",
+        "signedData": "DC03FR000001123F1636000126FR245700010MLLE/SAMPLE/ANGELA<GS>20<GS>21BAT 2 ETG 3<GS>227 PLACE DES SPECIMENS<GS>23<GS>25METZ<GS>�"
+    },
+    {
+        "creationDate": "15 octobre 2012",
+        "creationDateHex": "123F",
+        "documentTypeId": "01",
+        "documentTypeName": "Facture",
+        "mandatoryData": [
+            {
+                "key": "10",
+                "value": "MME/SPECIMEN/NATACHA"
+            },
+            {
+                "key": "22",
+                "value": "145 AVENUE DES SPECIMENS"
+            },
+            {
+                "key": "24",
+                "value": "75000"
+            },
+            {
+                "key": "26",
+                "value": "FR"
+            }
+        ],
+        "message": "DC03FR000001123F1636010126FR247500010MME/SPECIMEN/NATACHA<GS>22145 AVENUE DES SPECIMENS<GS><US>FEDMPW5SO5BNZFYP7FIQUYZFV5H3OF6QERDMOBN7BZ4CC4KVJ4XWUH6EW3CSWILAGLN4XQE6AKHX6RNOI3OXVW6X3IKJASZGL62FBUQ",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "2906C7DBB27742DC970FF9510A6325AF4FB717D02446C705BF0E782171554F2F6A1FC4B6C52B216032DBCBC09E028F7F45AE46DD7ADBD7DA14904B265FB450D2",
+        "signatureDate": "27 juillet 2015",
+        "signatureDateHex": "1636",
+        "signedData": "DC03FR000001123F1636010126FR247500010MME/SPECIMEN/NATACHA<GS>22145 AVENUE DES SPECIMENS<GS>"
+    },
+    {
+        "creationDate": "15 octobre 2012",
+        "creationDateHex": "123F",
+        "documentTypeId": "02",
+        "documentTypeName": "Avis de taxe d’habitation",
+        "mandatoryData": [
+            {
+                "key": "10",
+                "value": "M/ECHANTILLON/ARTHUR"
+            },
+            {
+                "key": "22",
+                "value": "42 SQUARE DES ECHANTILLONS"
+            },
+            {
+                "key": "24",
+                "value": "44000"
+            },
+            {
+                "key": "25",
+                "value": "NANTES"
+            },
+            {
+                "key": "26",
+                "value": "FR"
+            }
+        ],
+        "message": "DC03FR000001123F1636020126FR244400010M/ECHANTILLON/ARTHUR<GS>2242 SQUARE DES ECHANTILLONS<GS>25NANTES<GS><US>UBFF4NY7MIXQVUZYMRDRGXBTVWIVMCNP76TN7SA24QUJ4AAHG4WTLA2QZ5TSC54F2OQRMWOAKSHLXJLNHXH4GJPBHBWXBO3PMSDOVZI",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "A04A5E371F622F0AD3386447135C33AD915609AFFFA6DFC81AE4289E0007372D358350CF67217785D3A11659C0548EBBA56D3DCFC325E1386D70BB6F6486EAE5",
+        "signatureDate": "27 juillet 2015",
+        "signatureDateHex": "1636",
+        "signedData": "DC03FR000001123F1636020126FR244400010M/ECHANTILLON/ARTHUR<GS>2242 SQUARE DES ECHANTILLONS<GS>25NANTES<GS>"
+    },
+    {
+        "creationDate": "Pas de date d’émission",
+        "creationDateHex": "FFFF",
+        "documentTypeId": "03",
+        "documentTypeName": "Relevé d’identité bancaire",
+        "mandatoryData": [
+            {
+                "key": "30",
+                "value": "M EXEMPLE HENRY ET MME SPECIMEN NATACHA"
+            },
+            {
+                "key": "31",
+                "value": "FR7030002005500000157845Z02"
+            },
+            {
+                "key": "32",
+                "value": "CRLYFRPP"
+            }
+        ],
+        "message": "DC03FR000001FFFF1636030130M EXEMPLE HENRY ET MME SPECIMEN NATACHA<GS>31FR7030002005500000157845Z02<GS>32CRLYFRPP<GS><US>EQOSLUFV626SM4K7PTNO3PDT7IM736GLXXBJALK4MCSWJM3QIWQ7ASSCV5VNPS5HD2QZPVTCE76W5WG5MFFFJZWWOIDDLNVT2JX3HLI",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "241D25D0B5F6BD26715F7CDAEDBC73FA19FDF8CBBDC2902D5C60A564B37045A1F04A42AF6AD7CBA71EA197D66227FD6ED8DD614A54E6D6720635B6B3D26FB3AD",
+        "signatureDate": "27 juillet 2015",
+        "signatureDateHex": "1636",
+        "signedData": "DC03FR000001FFFF1636030130M EXEMPLE HENRY ET MME SPECIMEN NATACHA<GS>31FR7030002005500000157845Z02<GS>32CRLYFRPP<GS>"
+    },
+    {
+        "creationDate": "18 octobre 2012",
+        "creationDateHex": "1242",
+        "documentTypeId": "04",
+        "documentTypeName": "Avis d’impôt sur le revenu",
+        "mandatoryData": [
+            {
+                "key": "10",
+                "value": "M/IMPOSABLE/FRANCOIS"
+            },
+            {
+                "key": "40",
+                "value": "1234567890123"
+            },
+            {
+                "key": "41",
+                "value": "1042876"
+            }
+        ],
+        "message": "DC03FR00000112421636040110M/IMPOSABLE/FRANCOIS<GS>401234567890123411042876<GS><US>AB2MS643NQNY7X5BMSHCW7FJ5DQ2LCOVZ6OPVXUO5NATQOBBQKE753DIFQOV75WZNXBW2UEHL23Q3QOXGOXJRGOSK35SLLCM3BGJSLY",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "0074C97B9B6C1B8FDFA1648E2B7CA9E8E1A589D5CF9CFADE8EEB413838218289FEEC682C1D5FF6D96DC36D50875EB70DC1D733AE9899D256FB25AC4CD84C992F",
+        "signatureDate": "27 juillet 2015",
+        "signatureDateHex": "1636",
+        "signedData": "DC03FR00000112421636040110M/IMPOSABLE/FRANCOIS<GS>401234567890123411042876<GS>"
+    },
+    {
+        "creationDate": "Pas de date d’émission",
+        "creationDateHex": "FFFF",
+        "documentTypeId": "05",
+        "documentTypeName": "Relevé d’Identité SEPAmail",
+        "mandatoryData": [
+            {
+                "key": "08",
+                "value": "1240 (ce qui correspond à la date du 16 octobre 2012)"
+            },
+            {
+                "key": "30",
+                "value": "M/EXEMPLE/HENRY"
+            },
+            {
+                "key": "35",
+                "value": "QX7030002005500000157845Z02"
+            }
+        ],
+        "message": "DC03FR000001FFFF1636050108124030M/EXEMPLE/HENRY<GS>35QX7030002005500000157845Z02<GS><US>WOV6U4QA5KPKAEKC6G6KLVWQMW6IVWQ5NCHVOHRDH5AJUP2MAXR5VHYBOH74GGG7IHMYJISLHWOWEJNZVBUBXVMM27WQZ7G2EOJBZ3Y",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "B3ABEA7200EA9EA01142F1BCA5D6D065BC8ADA1D688F571E233F409A3F4C05E3DA9F0171FFC318DF41D984A24B3D9D6225B9A8681BD58CD7ED0CFCDA23921CEF",
+        "signatureDate": "27 juillet 2015",
+        "signatureDateHex": "1636",
+        "signedData": "DC03FR000001FFFF1636050108124030M/EXEMPLE/HENRY<GS>35QX7030002005500000157845Z02<GS>"
+    },
+    {
+        "creationDate": "2 novembre 2012",
+        "creationDateHex": "1251",
+        "documentTypeId": "06",
+        "documentTypeName": "Bulletin de salaire",
+        "facultativeData": [
+            {
+                "key": "51",
+                "value": "0157,5"
+            },
+            {
+                "key": "52",
+                "value": "00934,5"
+            }
+        ],
+        "mandatoryData": [
+            {
+                "key": "10",
+                "value": "M/EXEMPLE/HENRY"
+            },
+            {
+                "key": "50",
+                "value": "00000000000000"
+            },
+            {
+                "key": "53",
+                "value": "1231 (ce qui correspond à la date du 1er octobre 2012)"
+            },
+            {
+                "key": "54",
+                "value": "124F (ce qui correspond à la date du 31 octobre 2012)"
+            },
+            {
+                "key": "55",
+                "value": "15032012 (ce qui correspond au 15 mars 2012)"
+            },
+            {
+                "key": "58",
+                "value": "1319,24"
+            },
+            {
+                "key": "59",
+                "value": "9894,3"
+            }
+        ],
+        "message": "DC03FR00000112511636060110M/EXEMPLE/HENRY<GS>5000000000000000510157,55200934,553123154124F5515032012581319,24<GS>599894,3<GS><US>FCJYSMOD7KDZON5QGBKV355SCX2MDFOFU743UBYK2F3PR6D7EL6WRUUIRU5SQKYAY6OOO5NTPIDWJXSCV4X7VXBUHSUH2HVKY5GVXII",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "28938931C3FA879737B030555DF7B215F4C195C5A7F9BA070AD176F8F87F22FD68D2888D3B282B00C79CE775B37A0764DE42AF2FFADC343CA87D1EAAC74D5BA1",
+        "signatureDate": "27 juillet 2015",
+        "signatureDateHex": "1636",
+        "signedData": "DC03FR00000112511636060110M/EXEMPLE/HENRY<GS>5000000000000000510157,55200934,553123154124F5515032012581319,24<GS>599894,3<GS>"
+    },
+    {
+        "creationDate": "7 juin 2006",
+        "creationDateHex": "092D",
+        "documentTypeId": "07",
+        "documentTypeName": "Titre d’identité",
+        "mandatoryData": [
+            {
+                "key": "60",
+                "value": "NATACHA"
+            },
+            {
+                "key": "62",
+                "value": "SPECIMEN"
+            },
+            {
+                "key": "65",
+                "value": "P "
+            },
+            {
+                "key": "66",
+                "value": "07CD12304"
+            },
+            {
+                "key": "67",
+                "value": "FR (France)"
+            },
+            {
+                "key": "68",
+                "value": "F (Féminin)"
+            },
+            {
+                "key": "6C",
+                "value": "FR (France)"
+            }
+        ],
+        "message": "DC03FR000001092D1636070160NATACHA<GS>62SPECIMEN<GS>65P 6607CD12304<GS>67FR68F6CFR<US>EYLJXYH5R3HYO5YWTMELK7P277KKOK5TTNB26S6UAPDH2KJGT37YXNDEZTGEK2LX3OSRNAXOP4UHFWHNTOU6LTOSBMX2EBCQ36UZ4FA",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "26169BE0FD8ECF8777169B08B57DFAFFD4A72BB39B43AF4BD403C67D29269EFF8BB464CCCC456977DBA51682EE7F2872D8ED9BA9E5CDD20B2FA20450DFA99E14",
+        "signatureDate": "27 juillet 2015",
+        "signatureDateHex": "1636",
+        "signedData": "DC03FR000001092D1636070160NATACHA<GS>62SPECIMEN<GS>65P 6607CD12304<GS>67FR68F6CFR"
+    },
+
+
+    {
+        "creationDate": "7 juin 2006",
+        "creationDateHex": "092D",
+        "documentTypeId": "08",
+        "documentTypeName": "MRZ",
+        "mandatoryData": [
+            {
+                "key": "6F",
+                "value": "P FRASPECIMEN  NATACHA                      07CD123044FRA7307122F1603062              04"
+            }
+        ],
+        "message": "DC03FR000001092D163608016FP FRASPECIMEN  NATACHA                      07CD123044FRA7307122F1603062              04<GS><US>TYXD5GHXKAQ52NCB4IZGXJFYIYTX7UR5SIG7DPDJOS3KOW67ESGECFXFTZFE3MO263SYM7KY2GTNOR4Z5RROT7XDCOCTW3I7OREONIY",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "TYXD5GHXKAQ52NCB4IZGXJFYIYTX7UR5SIG7DPDJOS3KOW67ESGECFXFTZFE3MO263SYM7KY2GTNOR4Z5RROT7XDCOCTW3I7OREONIY",
+        "signatureDate": "27 juillet 2015",
+        "signatureDateHex": "1636",
+        "signedData": "DC03FR000001092D163608016FP FRASPECIMEN  NATACHA                      07CD123044FRA7307122F1603062              04<GS>"
+    },
+    {
+        "creationDate": "15 mars 2012",
+        "creationDateHex": "1169",
+        "documentTypeId": "10",
+        "documentTypeName": "Contrat de travail",
+        "mandatoryData": [
+            {
+                "key": "50",
+                "value": "00000000000000"
+            },
+            {
+                "key": "57",
+                "value": "15032012 (ce qui correspond à la date du 15 mars 2012)"
+            },
+            {
+                "key": "5A",
+                "value": "1517,42"
+            },
+            {
+                "key": "61",
+                "value": "HENRY"
+            },
+            {
+                "key": "62",
+                "value": "EXEMPLE"
+            }
+        ],
+        "message": "DC03FR000001116916361001500000000000000057150320125A1517,42<GS>61HENRY<GS>62EXEMPLE<GS><US>7OFGWXQL4ZVW4IXEHXJX7ZB5HASS6N5QLIJB3YNAGJMBTC22F2ZSGDKF32HTE6GAAZ4US4K62TX2I5BZED4SXLDHV7HFEVTDCPYXLQQ",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "FB8A6B5E0BE66B6E22E43DD37FE43D38252F37B05A121DE1A03258198B5A2EB3230D45DE8F3278C0067949715ED4EFA4743920F92BAC67AFCE52566313F175C2",
+        "signatureDate": "27 juillet 2015",
+        "signatureDateHex": "1636",
+        "signedData": "DC03FR000001116916361001500000000000000057150320125A1517,42<GS>61HENRY<GS>62EXEMPLE<GS>"
+    },
+    {
+        "creationDate": "1er septembre 2012",
+        "creationDateHex": "1213",
+        "documentTypeId": "11",
+        "documentTypeName": "Relevé de compte",
+        "mandatoryData": [
+            {
+                "key": "30",
+                "value": "M EXEMPLE HENRY ET MME SPECIMEN NATACHA"
+            },
+            {
+                "key": "31",
+                "value": "FR7030002005500000157845Z02"
+            },
+            {
+                "key": "32",
+                "value": "CRLYFRPP"
+            },
+            {
+                "key": "36",
+                "value": "1213 (ce qui correspond à la date du 1er septembre 2012)"
+            },
+            {
+                "key": "37",
+                "value": "1230 (ce qui correspond à la date du 30 septembre 2012)"
+            },
+            {
+                "key": "38",
+                "value": "-234,78"
+            }
+        ],
+        "message": "DC03FR00000112131636110130M EXEMPLE HENRY ET MME SPECIMEN NATACHA<GS>31FR7030002005500000157845Z02<GS>32CRLYFRPP<GS>36121337123038-234,78<GS><US>27SBQHRWLDWFSHQOEBCTVIZMZDHL4UF44K2R7RFSDCAGQIOAB243LPCY66ORXDN7CWHMSV6YKJE5MXN5VGEXSOSEHF2MXUOTQLNE5ZA",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "D7E4181E3658EC591E0E20453AA32CC8CEBE50BCE2B51FC4B218806821C00EB9B5BC58F79D1B8DBF158EC957D85249D65DBDA989793A443974CBD1D382DA4EE4",
+        "signatureDate": "27 juillet 2015",
+        "signatureDateHex": "1636",
+        "signedData": "DC03FR00000112131636110130M EXEMPLE HENRY ET MME SPECIMEN NATACHA<GS>31FR7030002005500000157845Z02<GS>32CRLYFRPP<GS>36121337123038-234,78<GS>"
+    },
+    {
+        "creationDate": "1er septembre 2015",
+        "creationDateHex": "165A",
+        "documentTypeId": "A0",
+        "documentTypeName": "Certificat de qualité de l’air",
+        "facultativeData": [
+            {
+                "key": "A8",
+                "value": "2008EURO5"
+            },
+            {
+                "key": "AA",
+                "value": "01011999 (ce qui correspond à la date du 1er janvier 1999)"
+            }
+        ],
+        "mandatoryData": [
+            {
+                "key": "A0",
+                "value": "FR (ce qui correspond à France)"
+            },
+            {
+                "key": "A1",
+                "value": "BH-999-VX"
+            },
+            {
+                "key": "A2",
+                "value": "RENAULT"
+            },
+            {
+                "key": "A3",
+                "value": "MEGANE SCENIC"
+            },
+            {
+                "key": "A4",
+                "value": "1M8GDM9AXKP042788"
+            },
+            {
+                "key": "A5",
+                "value": "M1"
+            },
+            {
+                "key": "A6",
+                "value": "GO"
+            },
+            {
+                "key": "A7",
+                "value": "082 (ce qui correspond à 130g/km)"
+            },
+            {
+                "key": "A9",
+                "value": "050"
+            }
+        ],
+        "message": "DC03FR000001165A164DA001A0FRA1BH-999-VX<GS>A2RENAULT<GS>A3MEGANE SCENIC<GS>A5M1 A6GOA9050A7082A41M8GDM9AXKP042788A82008EURO5<GS>AA01011999<US>N53YAWRADVZ5HZK7G3DBG23TJZONUYLGL23XRHVHT2JQXA6GEV2FBDOK6KVJ776RREGSD3WKE36MX2MP5A5AKZ37GIRI4N2FA5E6QUI",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "6F77805A201D73D3E55F36C6136B734E5CDA61665EB7789EA79E930B83C62574508DCAF2AA9FFFD1890D21EECA26FCCBE98FE83A05677F32228E37450749E851",
+        "signatureDate": "19 août 2015",
+        "signatureDateHex": "164D",
+        "signedData": "DC03FR000001165A164DA001A0FRA1BH-999-VX<GS>A2RENAULT<GS>A3MEGANE SCENIC<GS>A5M1 A6GOA9050A7082A41M8GDM9AXKP042788A82008EURO5<GS>AA01011999"
+    },
+    {
+        "creationDate": "27 avril 2016",
+        "creationDateHex": "1749",
+        "documentTypeId": "A1",
+        "documentTypeName": "Courrier Permis à points",
+        "facultativeData": [
+            {
+                "key": "6A",
+                "value": "TOULON"
+            },
+            {
+                "key": "AD",
+                "value": "16D4 (ce qui correspond à la date du 1er janvier 2016)"
+            },
+            {
+                "key": "AE",
+                "value": "0132"
+            },
+            {
+                "key": "AF",
+                "value": "4"
+            },
+            {
+                "key": "AG",
+                "value": "8"
+            }
+        ],
+        "mandatoryData": [
+            {
+                "key": "AB",
+                "value": "48M"
+            },
+            {
+                "key": "AC",
+                "value": "156985632"
+            },
+            {
+                "key": "6H",
+                "value": "MME"
+            },
+            {
+                "key": "6G",
+                "value": "SPECIMEN"
+            },
+            {
+                "key": "60",
+                "value": "NATACHA"
+            },
+            {
+                "key": "69",
+                "value": "25111973"
+            }
+        ],
+        "message": "DC03FR00000117491766A101AB48M<GS>AC156985632<GS>6HMME<GS>6GSPECIMEN<GS>60NATACHA<GS>69251119736ATOULON<GS>AD16D4AE0132AF4AG8<US>5EYSLG4NKU5EFORGEHGGSKCRRD3JQDFLIQYWYQB3J4JHE5JGGB2E5LBJKNWGOMHSCFZI7OZ6CLRF3ZHCPB73ZJD2GBS75GOCYZYRIKI",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "E931259B8D553A42BA2621CC69285188F6980CAB44316C403B4F1272752630744EAC29536C6730F211728FBB3E12E25DE4E2787FBCA47A3065FE99C2C6711429",
+        "signatureDate": "26 mai 2016",
+        "signatureDateHex": "1766",
+        "signedData": "DC03FR00000117491766A101AB48M<GS>AC156985632<GS>6HMME<GS>6GSPECIMEN<GS>60NATACHA<GS>69251119736ATOULON<GS>AD16D4AE0132AF4AG8"
+    },
+    {
+        "creationDate": "1er décembre 2016",
+        "creationDateHex": "1823",
+        "documentTypeId": "A2",
+        "documentTypeName": "Carte Mobilité Inclusion – code A2",
+        "mandatoryData": [
+            {
+                "key": "AH",
+                "value": "ABC1234567890DEF"
+            },
+            {
+                "key": "AI",
+                "value": "30112019 (ce qui correspond à la date du 30 novembre 2019)"
+            }
+        ],
+        "message": "DC03FR0000011823180BA201AHABC1234567890DEF<GS>AI30112019<US>GS6BVV7JXCKKTTYIX2WH5IX4IXQCH3TKMEKYQ3LTXQGCH4JFTX566VJ5IKBTHGKQ6QVHQQF6COXUPAIADDWFNDEJSEHFJIX77K6IVXQ",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "34BC1AD7E9B894A9CF08BEAC7EA2FC45E023EE6A6115886D73BC0C23F1259DFBEF553D4283339950F42A7840BE13AF47810018EC568C89910E54A2FFFABC8ADE",
+        "signatureDate": "7 novembre 2016",
+        "signatureDateHex": "180B",
+        "signedData": "DC03FR0000011823180BA201AHABC1234567890DEF<GS>AI30112019"
+    },
+    {
+        "creationDate": "Pas de date d’émission",
+        "creationDateHex": "FFFF",
+        "documentTypeId": "A3",
+        "documentTypeName": "Macaron VTC",
+        "mandatoryData": [
+            {
+                "key": "A1",
+                "value": "AA-555-AA"
+            },
+            {
+                "key": "AJ",
+                "value": "EVTC123456789"
+            },
+            {
+                "key": "AK",
+                "value": "0000001"
+            }
+        ],
+        "message": "DC03FR000001FFFF180EA301AJEVTC123456789AK0000001A1AA-555-AA<GS><US>VLBRF7PWKEX5BCCMTKS23PVETBPCOWBFLWPR4ONNMY6UBMMUXZFBKVOR3XHDNKW7F5IABD5QTZY2FTUBW5JNAJ5LSQHJDPTRGWPTTWQ",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "AAC312FDF6512FD0884C9AA5ADBEA4985E2758255D9F1E39AD663D40B194BE4A1555D1DDCE36AADF2F50008FB09E71A2CE81B752D027AB940E91BE71359F39DA",
+        "signatureDate": "10 novembre 2016",
+        "signatureDateHex": "180E",
+        "signedData": "DC03FR000001FFFF180EA301AJEVTC123456789AK0000001A1AA-555-AA<GS>"
+    },
+    {
+        "creationDate": "20 avril 2017",
+        "creationDateHex": "18AF",
+        "documentTypeId": "A4",
+        "documentTypeName": "Certificat de décès",
+        "facultativeData": [
+            {
+                "key": "74",
+                "value": "BERTHIER"
+            },
+            {
+                "key": "75",
+                "value": "12071973 (ce qui correspond au 12 juillet 1973)"
+            },
+            {
+                "key": "76",
+                "value": "F (ce qui correspond à Féminin)"
+            },
+            {
+                "key": "79",
+                "value": "80 AVENUE DES ECHANTILLONS"
+            },
+            {
+                "key": "7A",
+                "value": "83000"
+            },
+            {
+                "key": "7B",
+                "value": "TOULON"
+            },
+            {
+                "key": "7F",
+                "value": "1 (ce qui correspond à Vrai)"
+            },
+            {
+                "key": "7H",
+                "value": "30 (ce qui correspond à 48)"
+            },
+            {
+                "key": "7I",
+                "value": "1 (ce qui correspond à Vrai)"
+            },
+            {
+                "key": "7J",
+                "value": "0 (ce qui correspond à Faux)"
+            },
+            {
+                "key": "7L",
+                "value": "CODEFINES"
+            },
+            {
+                "key": "7N",
+                "value": "MARSEILLE"
+            },
+            {
+                "key": "7O",
+                "value": "0 (ce qui correspond à Faux)"
+            }
+        ],
+        "mandatoryData": [
+            {
+                "key": "71",
+                "value": "200420170000 (ce qui correspond au 20 avril 2017 à 0h00m)"
+            },
+            {
+                "key": "72",
+                "value": "SPECIMEN"
+            },
+            {
+                "key": "73",
+                "value": "NATACHA/CORINNE"
+            },
+            {
+                "key": "77",
+                "value": "TOULON"
+            },
+            {
+                "key": "78",
+                "value": "83000"
+            },
+            {
+                "key": "7C",
+                "value": "0 (ce qui correspond à Faux)"
+            },
+            {
+                "key": "7D",
+                "value": "H (ce qui correspond à Mise en bière dans un"
+            },
+            {
+                "key": "7E",
+                "value": "0 (ce qui correspond à Faux)"
+            },
+            {
+                "key": "7G",
+                "value": "0 (ce qui correspond à Faux)"
+            },
+            {
+                "key": "7K",
+                "value": "ER20131350001"
+            },
+            {
+                "key": "7M",
+                "value": "DR SAMPLE TOTO"
+            }
+        ],
+        "message": "DC03FR00000118AF18EFA4017120042017000072SPECIMEN<GS>73NATACHA/CORINNE<GS>74BERTHIER<GS>751207197377TOULON<GS>78830007980 AVENUE DES ECHANTILLONS<GS>7BTOULON<GS>7A830007C07DH7E07F17G07I17J07KER201313500017MDR SAMPLE TOTO<GS>7NMARSEILLE<GS>76F7O07LCODEFINES7H30<US>VXEWJSI34LKDJ64OPLYUVNDYKZ3ZRFDB3WA2MTK4J3HP2336WWMTISDQLYVD4NY3QG6USENRAY3CBWR6LI6743WB66MPYNOEAYAEGGY",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "ADC964C91BE2D434FB8E7AF14AB4785677989461DD81A64D5C4ECEFD6F7EB5993448705E2A3E371B81BD4911B1063620DA3E5A3DFE6EC1F798FC35C40600431B",
+        "signatureDate": "23 juin 2017",
+        "signatureDateHex": "18EF",
+        "signedData": "DC03FR00000118AF18EFA4017120042017000072SPECIMEN<GS>73NATACHA/CORINNE<GS>74BERTHIER<GS>751207197377TOULON<GS>78830007980 AVENUE DES ECHANTILLONS<GS>7BTOULON<GS>7A830007C07DH7E07F17G07I17J07KER201313500017MDR SAMPLE TOTO<GS>7NMARSEILLE<GS>76F7O07LCODEFINES7H30"
+    },
+    {
+        "creationDate": "Pas de date d’émission",
+        "creationDateHex": "FFFF",
+        "documentTypeId": "A5",
+        "documentTypeName": "Carte T3P",
+        "mandatoryData": [
+            {
+                "key": "AL",
+                "value": "12345678901"
+            },
+            {
+                "key": "AI",
+                "value": "30112019 (ce qui correspond au 30 novembre 2019)"
+            }
+        ],
+        "message": "DC03FR000001FFFF18EAA501AL12345678901AI30112019<US>UBVQ7MMXTQ5FE3LZPIAZY6HZNGQJ3GLTKU6T4NJ5PGSKFECBUQIAPEWMZYIIEHZSQBDKG2QCJIXUONTMFXYMYYTTITJAOCVJQ7EOARY",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "A06B0FB1979C3A526D797A019C78F969A09D9973553D3E353D79A4A29041A4100792CCCE10821F328046A36A024A2F47366C2DF0CC627344D2070AA987C8E047",
+        "signatureDate": "18 juin 2017",
+        "signatureDateHex": "18EA",
+        "signedData": "DC03FR000001FFFF18EAA501AL12345678901AI30112019"
+    },
+    {
+        "creationDate": "Pas de date d’émission",
+        "creationDateHex": "FFFF",
+        "documentTypeId": "A6",
+        "documentTypeName": "Carte Professionnelle Sapeur-Pompier",
+        "mandatoryData": [
+            {
+                "key": "80",
+                "value": "SPECIMEN"
+            },
+            {
+                "key": "81",
+                "value": "NATACHA/CORINNE"
+            },
+            {
+                "key": "82",
+                "value": "1234567890"
+            },
+            {
+                "key": "83",
+                "value": "SDIS SPECIMEN"
+            }
+        ],
+        "message": "DC03FR000001FFFF190EA60180SPECIMEN<GS>81NATACHA/CORINNE<GS>821234567890<GS>83SDIS SPECIMEN<GS><US>BMRTHJFTUGQFU62PGLZMFAXASLJLANOZ64JCKZWOXJNEEGE7AY6TWS5CLBUGDFZ7XBZWF5Z72WJ2NSC3R7BKS3PSZ57RPV7JXYFQMMI",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "0B2333A4B3A1A05A7B4F32F2C282E092D2B035D9F7122566CEBA5A42189F063D3B4BA2586861973FB87362F73FD593A6C85B8FC2A96DF2CF7F17D7E9BE0B0631",
+        "signatureDate": "24 juillet 2017",
+        "signatureDateHex": "190E",
+        "signedData": "DC03FR000001FFFF190EA60180SPECIMEN<GS>81NATACHA/CORINNE<GS>821234567890<GS>83SDIS SPECIMEN<GS>"
+    },
+    {
+        "creationDate": "1er octobre 2017",
+        "creationDateHex": "1953",
+        "documentTypeId": "A7",
+        "documentTypeName": "Certificat de Qualité de l’Air (V2)",
+        "facultativeData": [
+            {
+                "key": "A3",
+                "value": "MEGANE SCENIC"
+            },
+            {
+                "key": "A7",
+                "value": "082 (ce qui correspond à 130g/km)"
+            },
+            {
+                "key": "A8",
+                "value": "2008EURO5"
+            },
+            {
+                "key": "AA",
+                "value": "01011999 (ce qui correspond à la date du 1er janvier 1999)"
+            }
+        ],
+        "mandatoryData": [
+            {
+                "key": "A0",
+                "value": "FR (ce qui correspond à France)"
+            },
+            {
+                "key": "A1",
+                "value": "BH-999-VX"
+            },
+            {
+                "key": "A2",
+                "value": "RENAULT"
+            },
+            {
+                "key": "A4",
+                "value": "1M8GDM9AXKP042788"
+            },
+            {
+                "key": "A5",
+                "value": "M1"
+            },
+            {
+                "key": "A6",
+                "value": "GO"
+            },
+            {
+                "key": "A9",
+                "value": "150"
+            },
+            {
+                "key": "AM",
+                "value": "FAP"
+            }
+        ],
+        "message": "DC03FR00000119531938A701A0FRA1BH-999-VX<GS>A2RENAULT<GS>A41M8GDM9AXKP042788A5M1 A6GOA9150AMFAP<GS>A7082A3MEGANE SCENIC<GS>A82008EURO5<GS>AA01011999<US>J7QUGL3FU6GC2JSWO2QAOTJK7BML4VBLVBPSAIF5FAD4ZBJAZ33E3JD5L6ECK5I3BMJGIZ3XUTNPI4RUNX3XIYTPV26NC6GXWHOVSVA",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "4FE1432F65A78C2D265676A0074D2AF858BE542BA85F2020BD2807CC8520CEF64DA47D5F8825751B0B12646777A4DAF472346DF774626FAEBCD178D7B1DD5954",
+        "signatureDate": "4 septembre 2017",
+        "signatureDateHex": "1938",
+        "signedData": "DC03FR00000119531938A701A0FRA1BH-999-VX<GS>A2RENAULT<GS>A41M8GDM9AXKP042788A5M1 A6GOA9150AMFAP<GS>A7082A3MEGANE SCENIC<GS>A82008EURO5<GS>AA01011999"
+    },
+    {
+        "creationDate": "14 septembre 2012",
+        "creationDateHex": "1220",
+        "documentTypeId": "B0",
+        "documentTypeName": "Diplôme",
+        "facultativeData": [
+            {
+                "key": "B8",
+                "value": "TOULON"
+            },
+            {
+                "key": "BB",
+                "value": "0600010040B"
+            },
+            {
+                "key": "BC",
+                "value": "9840328"
+            },
+            {
+                "key": "BF",
+                "value": "7DF (ce qui correspond à 2015 et donc à l’année universitaire 2014-2015)"
+            }
+        ],
+        "mandatoryData": [
+            {
+                "key": "B1",
+                "value": "NATACHA"
+            },
+            {
+                "key": "B2",
+                "value": "SPECIMEN"
+            },
+            {
+                "key": "B6",
+                "value": "F"
+            },
+            {
+                "key": "B7",
+                "value": "12071973"
+            },
+            {
+                "key": "B9",
+                "value": "FR (ce qui correspond à France)"
+            },
+            {
+                "key": "BD",
+                "value": "7"
+            },
+            {
+                "key": "BG",
+                "value": "MA (ce qui correspond à Master)"
+            },
+            {
+                "key": "BH",
+                "value": "SCIENCES TECHNOLOGIES SANTE"
+            },
+            {
+                "key": "BI",
+                "value": "INFORMATIQUE"
+            },
+            {
+                "key": "BJ",
+                "value": "INFORMATIQUE DU LOGICIEL"
+            }
+        ],
+        "message": "DC03FR000001122016A2B001B1NATACHA<GS>B2SPECIMEN<GS>B6FB712071973B9FRBD7BGMABHSCIENCES TECHNOLOGIES SANTE<GS>BIINFORMATIQUE<GS>BJINFORMATIQUE DU LOGICIEL<GS>B8TOULON<GS>BB0600010040B<GS>BC9840328<GS>BF7DF<US>FDRZFG3UCKGNVMMH3FHTVPDC74DVXSQLE4TQXRMTEHEPUD4RE5P5PFPDT2ZGL7G5RMZKLMGTQIUQRQPXO7ES6JH6JR4KDQSTTQEHX4Q",
+        "perimeter": "Périmètre ANTS",
+        "perimeterId": "01",
+        "signature": "28E3929B74128CDAB187D94F3ABC62FF075BCA0B27270BC59321C8FA0F91275FD795E39EB265FCDD8B32A5B0D3822908C1F777C92F24FE4C78A1C2539C087BF2",
+        "signatureDate": "12 novembre 2015",
+        "signatureDateHex": "16A2",
+        "signedData": "DC03FR000001122016A2B001B1NATACHA<GS>B2SPECIMEN<GS>B6FB712071973B9FRBD7BGMABHSCIENCES TECHNOLOGIES SANTE<GS>BIINFORMATIQUE<GS>BJINFORMATIQUE DU LOGICIEL<GS>B8TOULON<GS>BB0600010040B<GS>BC9840328<GS>BF7DF"
+    }
+]

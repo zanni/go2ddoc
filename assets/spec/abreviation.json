@@ -1,0 +1,630 @@
+{
+    "autres": [
+        {
+            "abv": "ADJ",
+            "text": "Adjudant"
+        },
+        {
+            "abv": "AERD",
+            "text": "Aérodrome"
+        },
+        {
+            "abv": "AERG",
+            "text": "Aérogare"
+        },
+        {
+            "abv": "AERN",
+            "text": "Aéronautique"
+        },
+        {
+            "abv": "AERP",
+            "text": "Aéroport"
+        },
+        {
+            "abv": "AGCE",
+            "text": "Agence"
+        },
+        {
+            "abv": "AGRIC",
+            "text": "Agricole"
+        },
+        {
+            "abv": "ANC",
+            "text": "Ancien(nement)"
+        },
+        {
+            "abv": "APP",
+            "text": "Appartement(s)"
+        },
+        {
+            "abv": "ARMT",
+            "text": "Armement"
+        },
+        {
+            "abv": "ARR",
+            "text": "Arrondissement"
+        },
+        {
+            "abv": "ASP",
+            "text": "Aspirant"
+        },
+        {
+            "abv": "ASSOC",
+            "text": "Association"
+        },
+        {
+            "abv": "ASSUR",
+            "text": "Assurance"
+        },
+        {
+            "abv": "AT",
+            "text": "Atelier"
+        },
+        {
+            "abv": "BRQ",
+            "text": "Baraquement"
+        },
+        {
+            "abv": "BAS",
+            "text": "Bas(se, ses)"
+        },
+        {
+            "abv": "BTN",
+            "text": "Bataillon(s)"
+        },
+        {
+            "abv": "BAT",
+            "text": "Bâtiment(s)"
+        },
+        {
+            "abv": "BP",
+            "text": "Boîte Postale"
+        },
+        {
+            "abv": "CAB",
+            "text": "Cabinet"
+        },
+        {
+            "abv": "CANT",
+            "text": "Canton"
+        },
+        {
+            "abv": "CDL",
+            "text": "Cardinal"
+        },
+        {
+            "abv": "CP",
+            "text": "Case Postale"
+        },
+        {
+            "abv": "CHBR",
+            "text": "Chambre"
+        },
+        {
+            "abv": "CTD",
+            "text": "Citadelle"
+        },
+        {
+            "abv": "COLL",
+            "text": "Collège"
+        },
+        {
+            "abv": "CNL",
+            "text": "Colonel"
+        },
+        {
+            "abv": "COLO",
+            "text": "Colonie"
+        },
+        {
+            "abv": "CTE",
+            "text": "Comité"
+        },
+        {
+            "abv": "CDT",
+            "text": "Commandant"
+        },
+        {
+            "abv": "CIAL",
+            "text": "Commercial"
+        },
+        {
+            "abv": "COMM",
+            "text": "Commune(al, aux)"
+        },
+        {
+            "abv": "CIE",
+            "text": "Compagnie"
+        },
+        {
+            "abv": "COMP",
+            "text": "Compagnon(s)"
+        },
+        {
+            "abv": "COOP",
+            "text": "Coopérative"
+        },
+        {
+            "abv": "CS",
+            "text": "Course Spéciale"
+        },
+        {
+            "abv": "CRX",
+            "text": "Croix"
+        },
+        {
+            "abv": "DELEG",
+            "text": "Délégation"
+        },
+        {
+            "abv": "DEP",
+            "text": "Départemental(aux)"
+        },
+        {
+            "abv": "DIR",
+            "text": "Directeur(ction)"
+        },
+        {
+            "abv": "DIV",
+            "text": "Division"
+        },
+        {
+            "abv": "DR",
+            "text": "Docteur"
+        },
+        {
+            "abv": "ECO",
+            "text": "Economie(ique)"
+        },
+        {
+            "abv": "ECRIV",
+            "text": "Ecrivain(s)"
+        },
+        {
+            "abv": "ENST",
+            "text": "Enseignement"
+        },
+        {
+            "abv": "ENS",
+            "text": "Ensemble"
+        },
+        {
+            "abv": "ENT",
+            "text": "Entrée(s)"
+        },
+        {
+            "abv": "ENTR",
+            "text": "Entreprise"
+        },
+        {
+            "abv": "EP",
+            "text": "Epoux(se)"
+        },
+        {
+            "abv": "ETS",
+            "text": "Etablissement"
+        },
+        {
+            "abv": "ETG",
+            "text": "Etage"
+        },
+        {
+            "abv": "EM",
+            "text": "Etat Major"
+        },
+        {
+            "abv": "EVQ",
+            "text": "Evêque"
+        },
+        {
+            "abv": "FAC",
+            "text": "Faculté"
+        },
+        {
+            "abv": "FOR",
+            "text": "Forêt (Forestier)"
+        },
+        {
+            "abv": "FR",
+            "text": "Français (e) "
+        },
+        {
+            "abv": "FUS",
+            "text": "Fusilier"
+        },
+        {
+            "abv": "GEND",
+            "text": "Gendarmerie"
+        },
+        {
+            "abv": "GAL",
+            "text": "Général"
+        },
+        {
+            "abv": "GOUV",
+            "text": "Gouvernemental"
+        },
+        {
+            "abv": "GOU",
+            "text": "Gouverneur"
+        },
+        {
+            "abv": "GD",
+            "text": "Grand"
+        },
+        {
+            "abv": "GDE",
+            "text": "Grande"
+        },
+        {
+            "abv": "GDES",
+            "text": "Grandes"
+        },
+        {
+            "abv": "GDS",
+            "text": "Grands"
+        },
+        {
+            "abv": "HT",
+            "text": "Haut"
+        },
+        {
+            "abv": "HTE",
+            "text": "Haute"
+        },
+        {
+            "abv": "HTES",
+            "text": "Hautes"
+        },
+        {
+            "abv": "HTS",
+            "text": "Hauts"
+        },
+        {
+            "abv": "HOP",
+            "text": "Hôpital (aux)"
+        },
+        {
+            "abv": "HOSP",
+            "text": "Hospice (Hospitalier)"
+        },
+        {
+            "abv": "HOT",
+            "text": "Hôtel"
+        },
+        {
+            "abv": "INF",
+            "text": "Infanterie INFANT Inférieur (e)"
+        },
+        {
+            "abv": "ING",
+            "text": "Ingénieur"
+        },
+        {
+            "abv": "INSP",
+            "text": "Inspecteur"
+        },
+        {
+            "abv": "INST",
+            "text": "Institut"
+        },
+        {
+            "abv": "INTER",
+            "text": "International (e)"
+        },
+        {
+            "abv": "LABO",
+            "text": "Laboratoire"
+        },
+        {
+            "abv": "LT",
+            "text": "Lieutenant"
+        },
+        {
+            "abv": "LTDV",
+            "text": "Lieutenant de Vaisseau"
+        },
+        {
+            "abv": "MME",
+            "text": "Madame"
+        },
+        {
+            "abv": "MLLE",
+            "text": "Mademoiselle"
+        },
+        {
+            "abv": "MAG",
+            "text": "Magasin"
+        },
+        {
+            "abv": "MAIS",
+            "text": "Maison"
+        },
+        {
+            "abv": "ME",
+            "text": "Maître"
+        },
+        {
+            "abv": "MAL",
+            "text": "Maréchal"
+        },
+        {
+            "abv": "MAR",
+            "text": "Maritime"
+        },
+        {
+            "abv": "MED",
+            "text": "Médecin(Médical)"
+        },
+        {
+            "abv": "MMES",
+            "text": "Mesdames"
+        },
+        {
+            "abv": "MLLES",
+            "text": "Mesdemoiselles"
+        },
+        {
+            "abv": "MM",
+            "text": "Messieurs"
+        },
+        {
+            "abv": "MIL",
+            "text": "Militaire"
+        },
+        {
+            "abv": "MIN",
+            "text": "Ministère"
+        },
+        {
+            "abv": "MGR",
+            "text": "Monseigneur"
+        },
+        {
+            "abv": "MUN",
+            "text": "Municipal"
+        },
+        {
+            "abv": "MUT",
+            "text": "Mutuel"
+        },
+        {
+            "abv": "NAL",
+            "text": "National"
+        },
+        {
+            "abv": "ND",
+            "text": "Notre Dame"
+        },
+        {
+            "abv": "NOUV",
+            "text": "Nouveau (elle)"
+        },
+        {
+            "abv": "OBS",
+            "text": "Observatoire"
+        },
+        {
+            "abv": "PAST",
+            "text": "Pasteur"
+        },
+        {
+            "abv": "PT",
+            "text": "Petit"
+        },
+        {
+            "abv": "PTE",
+            "text": "Petite"
+        },
+        {
+            "abv": "PTES",
+            "text": "Petites"
+        },
+        {
+            "abv": "PTS",
+            "text": "Petits"
+        },
+        {
+            "abv": "POL",
+            "text": "Police"
+        },
+        {
+            "abv": "PREF",
+            "text": "Préfet (préfecture)"
+        },
+        {
+            "abv": "PDT",
+            "text": "Président"
+        },
+        {
+            "abv": "PR",
+            "text": "Professeur"
+        },
+        {
+            "abv": "PROF",
+            "text": "Professionnel (le)"
+        },
+        {
+            "abv": "PROL",
+            "text": "Prolongé (e)"
+        },
+        {
+            "abv": "PROP",
+            "text": "Propriété"
+        },
+        {
+            "abv": "RECT",
+            "text": "Recteur"
+        },
+        {
+            "abv": "RGT",
+            "text": "Régiment"
+        },
+        {
+            "abv": "REG",
+            "text": "Régional (e) "
+        },
+        {
+            "abv": "REP",
+            "text": "République"
+        },
+        {
+            "abv": "REST",
+            "text": "Restaurant"
+        },
+        {
+            "abv": "ST",
+            "text": "Saint"
+        },
+        {
+            "abv": "STE",
+            "text": "Sainte"
+        },
+        {
+            "abv": "STES",
+            "text": "Saintes"
+        },
+        {
+            "abv": "STS",
+            "text": "Saints"
+        },
+        {
+            "abv": "SANA",
+            "text": "Sanatorium"
+        },
+        {
+            "abv": "SGT",
+            "text": "Sergent"
+        },
+        {
+            "abv": "SCE",
+            "text": "Service"
+        },
+        {
+            "abv": "SOC",
+            "text": "Société"
+        },
+        {
+            "abv": "SC",
+            "text": "Sous couvert"
+        },
+        {
+            "abv": "SPREF",
+            "text": "Sous-préfet (Sous-préfecture)"
+        },
+        {
+            "abv": "SUP",
+            "text": "Supérieur (e) "
+        },
+        {
+            "abv": "SYND",
+            "text": "Syndicat"
+        },
+        {
+            "abv": "TECH",
+            "text": "Technicien(que)"
+        },
+        {
+            "abv": "TSA",
+            "text": "Ter T Tri Service Armée"
+        },
+        {
+            "abv": "TUN",
+            "text": "Tunnel"
+        },
+        {
+            "abv": "UNVT",
+            "text": "Universitaire"
+        },
+        {
+            "abv": "UNIV",
+            "text": "Université"
+        },
+        {
+            "abv": "VELOD",
+            "text": "Vélodrome"
+        },
+        {
+            "abv": "VVE",
+            "text": "Veuve"
+        },
+        {
+            "abv": "VIEL",
+            "text": "Vielle(s)"
+        }
+    ],
+    "voies": [
+        {
+            "abv": "ALL",
+            "text": "Allée"
+        },
+        {
+            "abv": "AV",
+            "text": "Avenue"
+        },
+        {
+            "abv": "BD",
+            "text": "Boulevard"
+        },
+        {
+            "abv": "CTRE",
+            "text": "Centre"
+        },
+        {
+            "abv": "CCAL",
+            "text": "Centre commercial"
+        },
+        {
+            "abv": "IMM",
+            "text": "Immeuble(s)"
+        },
+        {
+            "abv": "IMP",
+            "text": "Impasse"
+        },
+        {
+            "abv": "LD",
+            "text": "Lieu-dit"
+        },
+        {
+            "abv": "LOT",
+            "text": "Lotissement"
+        },
+        {
+            "abv": "PAS",
+            "text": "Passage"
+        },
+        {
+            "abv": "PL",
+            "text": "Place"
+        },
+        {
+            "abv": "RES",
+            "text": "Résidence"
+        },
+        {
+            "abv": "RPT",
+            "text": "Rond-point"
+        },
+        {
+            "abv": "RTE",
+            "text": "Route"
+        },
+        {
+            "abv": "SQ",
+            "text": "Square"
+        },
+        {
+            "abv": "VLGE",
+            "text": "Village"
+        },
+        {
+            "abv": "ZA",
+            "text": "Zone d’activité"
+        },
+        {
+            "abv": "ZI",
+            "text": "Zone Industrielle"
+        }
+    ]
+}
